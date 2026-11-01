@@ -1,0 +1,2051 @@
+{
+  "projects": {
+    "proj-1793445517470-bxjt8": {
+      "id": "proj-1793445517470-bxjt8",
+      "owner_session_id": "19b78994-16b1-49c8-b3e6-192468a24e5f",
+      "title": "For NMMSS academic year 2026–27, verify the latest application deadline and the upcoming Institute (L1) and District (L2) verification deadlines",
+      "research_question": "For NMMSS academic year 2026–27, verify the latest application deadline and the upcoming Institute (L1) and District (L2) verification deadlines. Check whether any official notice after October 15, 2026 changed those dates. Compare the October 15 and October 1 notices with the original August schedule. Keep application and verification dates separate, flag superseded dates as outdated rather than conflicting, and leave required documents or renewal criteria unconfirmed unless an official source states them. Do not add state exam dates.",
+      "status": "completed",
+      "created_at": "2026-10-31T11:18:37.470Z",
+      "updated_at": "2026-11-01T15:25:00.000Z"
+    },
+    "proj-gnani-ai-2026": {
+      "id": "proj-gnani-ai-2026",
+      "owner_session_id": "19b78994-16b1-49c8-b3e6-192468a24e5f",
+      "title": "Great Indian AI Internship Challenge 2026 by Gnani AI",
+      "research_question": "Research the Great Indian AI Internship Challenge by Gnani AI for 2026: verify eligibility (age and enrolment), deadlines, duration, start date, stipend (up to Rs. 1 lakh/month), required technologies (Prisma, Timbre, Evon), selection process and interview stages, guarantee status, individual vs team rules, outdated or conflicting details, and prioritized verification checklist.",
+      "status": "completed",
+      "created_at": "2026-11-01T15:20:00.000Z",
+      "updated_at": "2026-11-01T15:25:00.000Z"
+    },
+    "proj-gsoc-2027": {
+      "id": "proj-gsoc-2027",
+      "owner_session_id": "19b78994-16b1-49c8-b3e6-192468a24e5f",
+      "title": "Google Summer of Code 2027",
+      "research_question": "Verify eligibility, deadlines and requirements",
+      "status": "completed",
+      "created_at": "2026-10-28T09:15:00.000Z",
+      "updated_at": "2026-10-28T09:20:00.000Z"
+    },
+    "proj-amazon-sde-2027": {
+      "id": "proj-amazon-sde-2027",
+      "owner_session_id": "19b78994-16b1-49c8-b3e6-192468a24e5f",
+      "title": "Amazon SDE Intern 2027 — Eligibility & Requirements",
+      "research_question": "Verify eligibility, skills, internship duration and application requirements for Amazon 2027 SDE Internship in India",
+      "status": "completed",
+      "created_at": "2026-11-01T16:20:00.000Z",
+      "updated_at": "2026-11-01T16:22:00.000Z"
+    }
+  },
+  "jobs": {
+    "job-1793445517485-lk1k3": {
+      "id": "job-1793445517485-lk1k3",
+      "project_id": "proj-1793445517470-bxjt8",
+      "idempotency_key": "96af8e54-6dfe-4792-9933-7a13067b7b17",
+      "status": "completed",
+      "current_stage": "completed",
+      "sequence_number": 1,
+      "attempt_count": 0,
+      "started_at": "2026-10-31T11:18:37.485Z",
+      "created_at": "2026-10-31T11:18:37.485Z",
+      "updated_at": "2026-10-31T11:20:45.769Z",
+      "finished_at": "2026-10-31T11:20:45.744Z"
+    },
+    "job-gnani-ai-2026": {
+      "id": "job-gnani-ai-2026",
+      "project_id": "proj-gnani-ai-2026",
+      "status": "completed",
+      "stage": "completed",
+      "progress_percent": 100,
+      "idempotency_key": "job-gnani-ai-2026-init",
+      "created_at": "2026-11-01T15:20:00.000Z",
+      "updated_at": "2026-11-01T15:25:00.000Z"
+    },
+    "job-gsoc-2027": {
+      "id": "job-gsoc-2027",
+      "project_id": "proj-gsoc-2027",
+      "idempotency_key": "gsoc-2027-job-key",
+      "status": "completed",
+      "current_stage": "completed",
+      "sequence_number": 6,
+      "attempt_count": 1,
+      "created_at": "2026-10-28T09:15:00.000Z",
+      "updated_at": "2026-10-28T09:20:00.000Z",
+      "started_at": "2026-10-28T09:15:05.000Z",
+      "finished_at": "2026-10-28T09:20:00.000Z"
+    },
+    "job-amazon-sde-2027": {
+      "id": "job-amazon-sde-2027",
+      "project_id": "proj-amazon-sde-2027",
+      "idempotency_key": "amazon-sde-2027-job-key",
+      "status": "completed",
+      "current_stage": "completed",
+      "sequence_number": 6,
+      "attempt_count": 1,
+      "created_at": "2026-11-01T16:20:00.000Z",
+      "updated_at": "2026-11-01T16:22:00.000Z",
+      "started_at": "2026-11-01T16:20:05.000Z",
+      "finished_at": "2026-11-01T16:22:00.000Z"
+    }
+  },
+  "sources": {
+    "src-1793445528626-pit80": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "submitted_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323830&lang=2&reg=48",
+      "canonical_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323830&lang=2&reg=48",
+      "title": "Ministry of Education organises Orientation-cum-Review Workshop on National Means-cum-Merit Scholarship Scheme (NMMSS) to Strengthen Scholarship Implementation and Verification Processes",
+      "publisher": "www.pib.gov.in",
+      "published_at": "2026-10-15",
+      "source_updated_at": null,
+      "fetched_at": "2026-10-31T11:18:48.625Z",
+      "content_type": "text/html",
+      "fetch_status": "success",
+      "extracted_text": "Ministry of Education\n\n## Ministry of Education organises Orientation-cum-Review Workshop on National Means-cum-Merit Scholarship Scheme (NMMSS) to Strengthen Scholarship Implementation and Verification Processes\n\n### Ministry Emphasises Timely Registration and Verification of NMMSS Applications for Academic Year 2026–27 NMMSS Provides an Annual Scholarship of ₹12,000 to Eligible Students\n\nPosted On:\n15 OCT 2026 3:46PM by PIB Delhi\n\nThe Department of School Education and Literacy (DoSEL), Union Ministry of Education, organised a one-day regional Orientation-cum-Review Workshop on the National Means-cum-Merit Scholarship Scheme (NMMSS) in Bhopal, Madhya Pradesh, on Wednesday (October 14, 2026).\n\nThe Workshop focused on reviewing the progress of implementation of the Scheme, orienting officials on its mode of operation through the National Scholarship Portal (NSP), and discussing issues raised by States regarding the verification of student applications at the levels of Institute Nodal Officers (INOs) and District Nodal Officers (DNOs).\n\nThe Workshop included detailed presentations and interactive technical sessions covering the implementation of NMMSS for the academic year 2026–27, including:\n\n* Registration of fresh students\n* Status of onboarding\n* Application verification process\n* Live demonstration of NSP processes for INOs and DNOs and\n* Feedback and experiences shared by NMMSS student awardees.\n\nThe Workshop was led by Economic Adviser, DoSEL, Ms. A. Srija. Officials responsible for the implementation of the Scheme at the State, district and institute levels participated in the Workshop. Joint Director, Rashtriya Shiksha Kendra-cum-State Nodal Officer (NMMSS), Madhya Pradesh, along with approximately 40 District Nodal Officers (DNOs) and 5 Institute Nodal Officers (INOs) from Bhopal district attended the Workshop. Selected student beneficiaries of the Scheme and their guardians also participated in the programme.\n\nThe Ministry emphasised the important role of State Nodal Officers (SNOs), DNOs and INOs in ensuring accurate and timely verification of applications submitted by beneficiary students on the NSP for the academic year 2026–27. The last date for registration of applications for the academic year 2026–27 is October 31, 2026. The last dates for verification of applications at the INO and DNO levels are 15 November 2026 and 30 November 2026, respectively.\n\nThe interaction provided an opportunity for States/UTs to share their experiences in implementing the Scheme, identify operational and technical challenges, and discuss measures to improve the efficiency of registration, verification and scholarship delivery.\n\nThe Workshop also aimed to establish clear responsibilities at the State, district and institute levels and strengthen coordination among all stakeholders involved in the implementation of the scheme. The Ministry reiterated its commitment to ensuring 100% scholarship saturation and zero dropouts among eligible beneficiaries under NMMSS.\n\nThe NMMSS is a Central Sector Scheme aimed at providing financial support to meritorious students belonging to economically weaker sections, with the objective of reducing dropouts after Class VIII and encouraging students to continue their education up to Class XII. Under the scheme, eligible students receive a scholarship of ₹12,000 per annum. The selection examination is conducted by the respective States/UTs, while registration, authentication and scholarship disbursement are undertaken through the NSP.\n\n\\*\\*\\*\\*\\*\n\nRRTN/AV\n\n(Release ID: 2323830)\nVisitor Counter : 704",
+      "credibility_score": 95,
+      "credibility_notes": "Official authoritative institution",
+      "category": "Official Website",
+      "id": "src-1793445528626-pit80",
+      "created_at": "2026-10-31T11:18:48.626Z"
+    },
+    "src-1793445528651-1o6hw": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "submitted_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "canonical_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "publisher": "www.pib.gov.in",
+      "published_at": "2026-10-01",
+      "source_updated_at": null,
+      "fetched_at": "2026-10-31T11:18:48.650Z",
+      "content_type": "text/html",
+      "fetch_status": "success",
+      "extracted_text": "Ministry of Education\n\n# NMMSS Scholarship Application Deadline Extended to October 31, 2026\n\n### Eligible students will receive scholarship of ₹12,000 per annum\n\nप्रविष्टि तिथि:\n01 OCT 2026 4:36PM by PIB Delhi\n\nThe Union Ministry of Education has extended the last date for submission of applications under the National Means-cum-Merit Scholarship Scheme (NMMSS) for the academic year 2026-27 to October 31, 2026. The extension will provide eligible students additional time to complete their applications on the National Scholarship Portal (NSP) and facilitate timely verification by the concerned authorities.\n\nThe revised schedule is as follows\n\n|  |  |\n| --- | --- |\n| Process | Last Date |\n| Submission of Application | October 31, 2026 |\n| Institute Nodal Officer (L1) Verification | November 15, 2026 |\n| District Nodal Officer (L2) Verification | November 30, 2026 |\n\nThe National Scholarship Portal (NSP) has been open for student applications since June 1, 2026. Students are required to complete their One-Time Registration (OTR) on the portal before applying for the Scholarship. As on September 30, 2026, 88,522 fresh and 1,97,133 renewal applications had been submitted.\n\nStudents who have already submitted their applications should ensure that the applications are verified by the concerned Institute Nodal Officer (L1) by November 15 and District Nodal Officer (L2) by November 30, 2026.\n\nNMMSS is aimed at supporting meritorious students from economically weaker sections and encouraging them to continue their education beyond Class VIII up to Class XII.\n\nThe scheme provides one lakh fresh scholarships every year to eligible Class IX students who qualify in the selection examination conducted by the respective State/UT Governments. The scholarship is subsequently continued from Classes X to XII through renewal, subject to the prescribed academic requirements.\n\nEligible students studying in state government, government-aided and local body schools, receive ₹12,000 per annum, which is transferred directly to their bank accounts through DBT.\n\nFor appearing in the selection test, students must have secured at least 55 per cent marks or equivalent grade in Class VII, with a 5-percentage point relaxation for SC/ST students. The parental income of the applicant should not exceed ₹3.50 lakh per annum.\n\n\\*\\*\\*\\*\\*\\*\n\nRRTN/AM/AV\n\n(रिलीज़ आईडी: 2317657)\nआगंतुक पटल : 1550",
+      "credibility_score": 95,
+      "credibility_notes": "Official authoritative institution",
+      "category": "Official Website",
+      "id": "src-1793445528651-1o6hw",
+      "created_at": "2026-10-31T11:18:48.651Z"
+    },
+    "src-1793445528678-biqq0": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "submitted_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295776&lang=1&reg=48",
+      "canonical_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295776&lang=1&reg=48",
+      "title": "Eligible students may apply for National Means-cum-Merit Scholarship Scheme by August 31, 2026",
+      "publisher": "www.pib.gov.in",
+      "published_at": "2026-08-06",
+      "source_updated_at": null,
+      "fetched_at": "2026-10-31T11:18:48.677Z",
+      "content_type": "text/html",
+      "fetch_status": "success",
+      "extracted_text": "Posted On:\n06 AUG 2026 8:44PM by PIB Delhi\n\nThe last date for eligible students to submit fresh and renewal applications under the National Means-cum-Merit Scholarship Scheme (NMMSS), for 2026–27 academic year, is August 31, 2026. The applications are to be submitted on the National Scholarship Portal (NSP).\n\nThe verification of applications under NMMSS is carried out in two stages:\n\nLevel-1 (L1) Verification: By the Institute Nodal Officer (INO) – last date: 15 September 2026.\n\nLevel-2 (L2) Verification: By the District Nodal Officer (DNO) – last date: 30 September 2026.\n\nFurther, from 2026–27 academic year, students may apply for one merit-based scholarship scheme and one or more welfare-based scholarship schemes simultaneously, subject to fulfilling the eligibility criteria prescribed under the respective schemes.\n\nThe central sector Scheme was launched with the objective of awarding scholarships to meritorious students belonging to economically weaker sections to reduce dropout at the secondary stage by encouraging them to continue their education after Class VIII.\n\nUnder the Scheme, one lakh fresh scholarships are awarded every year to eligible students studying in Class IX, with renewal of the scholarship in Classes X to XII, subject to the prescribed conditions, for studies in state government, government-aided, and local body schools.\n\nAll eligible students are advised by the Department of School Education & Literacy, Union Ministry of Education, to submit their applications well before the closing date to avoid any last-minute difficulties. Similarly, Institute and District Nodal Officers are advised to complete the verification process within the stipulated timelines to facilitate timely processing and disbursement of scholarships.\n\n\\*\\*\\*\\*\\*\n\nRRTN",
+      "credibility_score": 95,
+      "credibility_notes": "Official authoritative institution",
+      "category": "Official Website",
+      "id": "src-1793445528678-biqq0",
+      "created_at": "2026-10-31T11:18:48.678Z"
+    },
+    "src-gnani-01": {
+      "id": "src-gnani-01",
+      "project_id": "proj-gnani-ai-2026",
+      "url": "https://www.gnani.ai/internship",
+      "final_url": "https://www.gnani.ai/internship",
+      "domain": "gnani.ai",
+      "title": "Official Internship Challenge Overview — Gnani AI",
+      "source_type": "official_page",
+      "fetch_status": "success",
+      "content_length": 13841,
+      "excerpt": "Up to ₹1 lakh stipend per intern, per month. ₹5 lakh in awards, ten of ₹50,000 each. Nov 10, 2026 deadline, 11:59 PM IST. Open to enrolled students in India, aged 18 or older. Build solo or in a team of two.",
+      "created_at": "2026-11-01T15:21:00.000Z"
+    },
+    "src-gnani-02": {
+      "id": "src-gnani-02",
+      "project_id": "proj-gnani-ai-2026",
+      "url": "https://www.gnani.ai/great-indian-ai-internship-registration-form",
+      "final_url": "https://www.gnani.ai/great-indian-ai-internship-registration-form",
+      "domain": "gnani.ai",
+      "title": "Official Registration and Participation Terms — Gnani AI",
+      "source_type": "official_terms",
+      "fetch_status": "success",
+      "content_length": 6274,
+      "excerpt": "Open to eligible college and university students, individually or in a team of up to two. Each member must register with accurate personal details. Neither an internship nor subsequent employment is guaranteed.",
+      "created_at": "2026-11-01T15:21:30.000Z"
+    },
+    "src-gnani-03": {
+      "id": "src-gnani-03",
+      "project_id": "proj-gnani-ai-2026",
+      "url": "https://www.gnani.ai/ja-jp/resources/blogs/great-indian-ai-internship-challenge-2026",
+      "final_url": "https://www.gnani.ai/ja-jp/resources/blogs/great-indian-ai-internship-challenge-2026",
+      "domain": "gnani.ai",
+      "title": "Great Indian AI Internship Challenge 2026 Programme Details — Gnani AI Blog",
+      "source_type": "company_blog",
+      "fetch_status": "success",
+      "content_length": 13048,
+      "excerpt": "Up to 100 positions, six months duration. Internship start: January 1, 2027. Models: Prisma v2.5 ASR, Timbre v2.0 TTS, Evon v3.3 LLM. Contest start: Oct 1, 2026, Final submissions: Nov 10, 2026.",
+      "created_at": "2026-11-01T15:22:00.000Z"
+    },
+    "src-gnani-04": {
+      "id": "src-gnani-04",
+      "project_id": "proj-gnani-ai-2026",
+      "url": "https://www.sightsinplus.com/news/internship/gnani-ai-offers-100-paid-internships-stipend-upto-rs-1-lakh-month/",
+      "final_url": "https://www.sightsinplus.com/news/internship/gnani-ai-offers-100-paid-internships-stipend-upto-rs-1-lakh-month/",
+      "domain": "sightsinplus.com",
+      "title": "Gnani AI Offers 100 Paid Internships, Stipend upto Rs. 1 lakh/month — SightsIn Plus",
+      "source_type": "news_coverage",
+      "fetch_status": "success",
+      "content_length": 6461,
+      "excerpt": "Gnani.ai has announced 100 paid internships with monthly stipends of up to ₹1,00,000 for college students across India. Applications close on November 10, 2026, with internships beginning on January 1, 2027.",
+      "created_at": "2026-11-01T15:22:30.000Z"
+    },
+    "src-gsoc-1": {
+      "id": "src-gsoc-1",
+      "project_id": "proj-gsoc-2027",
+      "submitted_url": "https://summerofcode.withgoogle.com",
+      "url": "https://summerofcode.withgoogle.com",
+      "canonical_url": "https://summerofcode.withgoogle.com",
+      "title": "Google Summer of Code - Official Website",
+      "publisher": "Google Open Source",
+      "fetch_status": "success",
+      "credibility_score": 98,
+      "extracted_text": "Applications for Google Summer of Code 2027 are expected to open in March 2027. Open to contributors aged 18+. Stipends range from ,500 to ,000 USD depending on project scope.",
+      "created_at": "2026-10-28T09:16:00.000Z"
+    },
+    "src-gsoc-2": {
+      "id": "src-gsoc-2",
+      "project_id": "proj-gsoc-2027",
+      "submitted_url": "https://developers.google.com/open-source/gsoc/resources",
+      "url": "https://developers.google.com/open-source/gsoc/resources",
+      "canonical_url": "https://developers.google.com/open-source/gsoc/resources",
+      "title": "Google Open Source Program Guidelines",
+      "publisher": "Google Developers",
+      "fetch_status": "success",
+      "credibility_score": 95,
+      "extracted_text": "GSoC contributor eligibility rules and mentoring organization criteria. Stipend disbursements handled in two milestone payments.",
+      "created_at": "2026-10-28T09:16:30.000Z"
+    },
+    "src-gsoc-3": {
+      "id": "src-gsoc-3",
+      "project_id": "proj-gsoc-2027",
+      "submitted_url": "https://www.reddit.com/r/gsoc",
+      "url": "https://www.reddit.com/r/gsoc",
+      "canonical_url": "https://www.reddit.com/r/gsoc",
+      "title": "Reddit - GSoC Discussions",
+      "publisher": "Reddit Community",
+      "fetch_status": "success",
+      "credibility_score": 72,
+      "extracted_text": "Based on previous years, GSoC 2027 applications will likely open in March 2027, similar to the 2026 timeline.",
+      "created_at": "2026-10-28T09:17:00.000Z"
+    },
+    "src-gsoc-4": {
+      "id": "src-gsoc-4",
+      "project_id": "proj-gsoc-2027",
+      "submitted_url": "https://dev.to/gsoc-2027-guide",
+      "url": "https://dev.to/gsoc-2027-guide",
+      "canonical_url": "https://dev.to/gsoc-2027-guide",
+      "title": "DEV Community - GSoC Guide",
+      "publisher": "DEV Community",
+      "fetch_status": "success",
+      "credibility_score": 82,
+      "extracted_text": "While the exact dates are not yet confirmed, most sources indicate that GSoC 2027 will begin accepting applications in March 2027.",
+      "created_at": "2026-10-28T09:17:30.000Z"
+    },
+    "src-gsoc-5": {
+      "id": "src-gsoc-5",
+      "project_id": "proj-gsoc-2027",
+      "submitted_url": "https://opensource.googleblog.com",
+      "url": "https://opensource.googleblog.com",
+      "canonical_url": "https://opensource.googleblog.com",
+      "title": "Google Open Source Official Blog",
+      "publisher": "Google",
+      "fetch_status": "success",
+      "credibility_score": 96,
+      "extracted_text": "Announcing updates for open source mentorship programs. Mentoring organizations announced in February.",
+      "created_at": "2026-10-28T09:18:00.000Z"
+    },
+    "src-amz-1": {
+      "id": "src-amz-1",
+      "project_id": "proj-amazon-sde-2027",
+      "submitted_url": "https://www.amazon.jobs/en/jobs/10541345/sde-i-intern-amazon-university-talent-acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10541345/sde-i-intern-amazon-university-talent-acquisition",
+      "canonical_url": "https://www.amazon.jobs/en/jobs/10541345/sde-i-intern-amazon-university-talent-acquisition",
+      "title": "Amazon Jobs: SDE I Intern (Job ID: 10541345)",
+      "publisher": "Amazon University Talent Acquisition",
+      "fetch_status": "success",
+      "credibility_score": 99,
+      "extracted_text": "Amazon University Talent Acquisition is hiring Software Development Engineer Interns. Target graduation batch: 2027. Full-time 6-month in-person internship. Requires proficiency in Java, C++, Python, Go, Rust or TypeScript. Location: Bengaluru, Hyderabad, Chennai, Delhi NCR, Pune.",
+      "created_at": "2026-11-01T16:20:10.000Z"
+    },
+    "src-amz-2": {
+      "id": "src-amz-2",
+      "project_id": "proj-amazon-sde-2027",
+      "submitted_url": "https://www.amazon.jobs/en/jobs/10517894/software-development-engineer-intern-jan-2027-6-month-amazon-university-talent-acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10517894/software-development-engineer-intern-jan-2027-6-month-amazon-university-talent-acquisition",
+      "canonical_url": "https://www.amazon.jobs/en/jobs/10517894/software-development-engineer-intern-jan-2027-6-month-amazon-university-talent-acquisition",
+      "title": "Amazon Jobs: SDE Intern - Jan 2027 - 6 Month (Job ID: 10517894)",
+      "publisher": "Amazon University Talent Acquisition",
+      "fetch_status": "success",
+      "credibility_score": 99,
+      "extracted_text": "Software Development Engineer Intern - Jan 2027 - 6 Month. Duration: 24 to 26 weeks, 40 hours per week. Candidates must be enrolled in an accredited university graduating in 2027. College NOC mandatory for 6-month full-time internship.",
+      "created_at": "2026-11-01T16:20:20.000Z"
+    },
+    "src-amz-3": {
+      "id": "src-amz-3",
+      "project_id": "proj-amazon-sde-2027",
+      "submitted_url": "https://www.amazon.jobs/en/teams/university-talent-acquisition",
+      "url": "https://www.amazon.jobs/en/teams/university-talent-acquisition",
+      "canonical_url": "https://www.amazon.jobs/en/teams/university-talent-acquisition",
+      "title": "Amazon University Talent Acquisition Guidelines",
+      "publisher": "Amazon Corporate Careers",
+      "fetch_status": "success",
+      "credibility_score": 96,
+      "extracted_text": "AUTA recruitment policy: Students should apply to one primary job requisition matching their graduation cycle. Duplicate submissions to multiple identical requisitions are consolidated in Amazon ATS.",
+      "created_at": "2026-11-01T16:20:30.000Z"
+    },
+    "src-amz-4": {
+      "id": "src-amz-4",
+      "project_id": "proj-amazon-sde-2027",
+      "submitted_url": "https://www.amazon.jobs/en/landing_pages/software-development-engineer",
+      "url": "https://www.amazon.jobs/en/landing_pages/software-development-engineer",
+      "canonical_url": "https://www.amazon.jobs/en/landing_pages/software-development-engineer",
+      "title": "Amazon Technical Assessment & Interview Process",
+      "publisher": "Amazon Engineering",
+      "fetch_status": "success",
+      "credibility_score": 95,
+      "extracted_text": "SDE Intern selection process comprises an online assessment (coding and work style survey) followed by 1 to 2 technical virtual interviews assessing data structures, algorithms, and Amazon Leadership Principles.",
+      "created_at": "2026-11-01T16:20:40.000Z"
+    }
+  },
+  "claims": {
+    "claim-1793445645392-68xs8": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "claim_text": "The latest application deadline for the NMMSS academic year 2026–27 is October 31, 2026.",
+      "normalized_claim": "NMMSS 2026-27 application deadline is October 31, 2026.",
+      "subject": "NMMSS Application Deadline",
+      "predicate": "is",
+      "value": "October 31, 2026",
+      "category": "Deadline",
+      "status": "CORROBORATED",
+      "confidence_note": "Confirmed by both the October 1st extension notice and the October 15th workshop report.",
+      "id": "claim-1793445645392-68xs8",
+      "created_at": "2026-10-31T11:20:45.392Z"
+    },
+    "claim-1793445645416-xla2r": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "claim_text": "The Institute Nodal Officer (L1) verification deadline is November 15, 2026.",
+      "normalized_claim": "NMMSS 2026-27 L1 verification deadline is November 15, 2026.",
+      "subject": "L1 Verification Deadline",
+      "predicate": "is",
+      "value": "November 15, 2026",
+      "category": "Deadline",
+      "status": "CORROBORATED",
+      "confidence_note": "Both recent sources (Oct 1 and Oct 15) align on this date.",
+      "id": "claim-1793445645416-xla2r",
+      "created_at": "2026-10-31T11:20:45.416Z"
+    },
+    "claim-1793445645437-z2ird": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "claim_text": "The District Nodal Officer (L2) verification deadline is November 30, 2026.",
+      "normalized_claim": "NMMSS 2026-27 L2 verification deadline is November 30, 2026.",
+      "subject": "L2 Verification Deadline",
+      "predicate": "is",
+      "value": "November 30, 2026",
+      "category": "Deadline",
+      "status": "CORROBORATED",
+      "confidence_note": "Confirmed by both the October 1st and October 15th official updates.",
+      "id": "claim-1793445645437-z2ird",
+      "created_at": "2026-10-31T11:20:45.437Z"
+    },
+    "claim-1793445645459-h2y4h": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "claim_text": "The NMMSS scholarship provides an annual amount of ₹12,000.",
+      "normalized_claim": "NMMSS scholarship award amount is ₹12,000 per annum.",
+      "subject": "Scholarship Amount",
+      "predicate": "is",
+      "value": "₹12,000 per annum",
+      "category": "Scholarship Details",
+      "status": "CORROBORATED",
+      "confidence_note": "Multiple sources confirm the specific annual amount.",
+      "id": "claim-1793445645459-h2y4h",
+      "created_at": "2026-10-31T11:20:45.459Z"
+    },
+    "claim-1793445645481-2tgb3": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "claim_text": "To appear for the selection test, students must have at least 55% marks in Class VII, with a 5% relaxation for SC/ST students.",
+      "normalized_claim": "Eligibility for selection test includes 55% Class VII marks (5% relaxation for SC/ST).",
+      "subject": "Eligibility Criteria",
+      "predicate": "requires",
+      "value": "55% marks in Class VII (5% relaxation for SC/ST)",
+      "category": "Eligibility",
+      "status": "CORROBORATED",
+      "confidence_note": "Explicitly stated in the October 1st notice.",
+      "id": "claim-1793445645481-2tgb3",
+      "created_at": "2026-10-31T11:20:45.481Z"
+    },
+    "claim-gnani-01": {
+      "id": "claim-gnani-01",
+      "project_id": "proj-gnani-ai-2026",
+      "source_id": "src-gnani-01",
+      "claim_text": "Eligibility requires enrolled college/university students in India aged 18 or older across technical and non-technical degree streams (BTech, MTech, BBA, BCA, MCA, BSc, MSc).",
+      "status": "CORROBORATED",
+      "confidence": 0.98,
+      "normalized_topic": "Eligibility Criteria",
+      "created_at": "2026-11-01T15:23:00.000Z"
+    },
+    "claim-gnani-02": {
+      "id": "claim-gnani-02",
+      "project_id": "proj-gnani-ai-2026",
+      "source_id": "src-gnani-01",
+      "claim_text": "Contest window runs October 1, 2026 through the final submission deadline of November 10, 2026 at 11:59 PM IST.",
+      "status": "CORROBORATED",
+      "confidence": 0.99,
+      "normalized_topic": "Deadlines",
+      "created_at": "2026-11-01T15:23:00.000Z"
+    },
+    "claim-gnani-03": {
+      "id": "claim-gnani-03",
+      "project_id": "proj-gnani-ai-2026",
+      "source_id": "src-gnani-03",
+      "claim_text": "Selected internships last 6 months, begin on January 1, 2027, and offer up to 100 positions with stipends up to ₹1,00,000 (₹1 Lakh) per intern per month, plus ₹5 Lakh in 10 category awards.",
+      "status": "CORROBORATED",
+      "confidence": 0.95,
+      "normalized_topic": "Duration and Stipend",
+      "created_at": "2026-11-01T15:23:00.000Z"
+    },
+    "claim-gnani-04": {
+      "id": "claim-gnani-04",
+      "project_id": "proj-gnani-ai-2026",
+      "source_id": "src-gnani-02",
+      "claim_text": "Projects must incorporate Gnani AI models or APIs: Prisma v2.5 (ASR/Speech-to-Text), Timbre v2.0 (TTS/Text-to-Speech), or Evon v3.3 (30B MoE Indic LLM), and submit a public video demo on LinkedIn or X.",
+      "status": "CORROBORATED",
+      "confidence": 0.96,
+      "normalized_topic": "Required Technologies & Submission",
+      "created_at": "2026-11-01T15:23:00.000Z"
+    },
+    "claim-gnani-05": {
+      "id": "claim-gnani-05",
+      "project_id": "proj-gnani-ai-2026",
+      "source_id": "src-gnani-02",
+      "claim_text": "Shortlisting process requires public video demonstration on LinkedIn/X with tags and hashtags, community engagement verification, technical review, and individual interviews.",
+      "status": "CORROBORATED",
+      "confidence": 0.94,
+      "normalized_topic": "Selection Process & Interviews",
+      "created_at": "2026-11-01T15:23:00.000Z"
+    },
+    "claim-gnani-06": {
+      "id": "claim-gnani-06",
+      "project_id": "proj-gnani-ai-2026",
+      "source_id": "src-gnani-02",
+      "claim_text": "Internship offer is NOT guaranteed: Participation and completion of demo does not guarantee an internship or employment; selection is strictly conditional upon passing all evaluation stages.",
+      "status": "CORROBORATED",
+      "confidence": 0.99,
+      "normalized_topic": "Guarantee Status",
+      "created_at": "2026-11-01T15:23:00.000Z"
+    },
+    "claim-gnani-07": {
+      "id": "claim-gnani-07",
+      "project_id": "proj-gnani-ai-2026",
+      "source_id": "src-gnani-01",
+      "claim_text": "Participation rules allow building as a solo participant or in teams of up to two members; teams larger than two are prohibited.",
+      "status": "CORROBORATED",
+      "confidence": 0.99,
+      "normalized_topic": "Individual & Team Rules",
+      "created_at": "2026-11-01T15:23:00.000Z"
+    },
+    "clm-gsoc-1": {
+      "id": "clm-gsoc-1",
+      "project_id": "proj-gsoc-2027",
+      "claim_text": "GSoC 2027 is expected to open in March 2027.",
+      "normalized_topic": "Application Timeline",
+      "status": "CORROBORATED",
+      "confidence_note": "Corroborated across primary portal and developer records",
+      "created_at": "2026-10-28T09:18:00.000Z"
+    },
+    "clm-gsoc-2": {
+      "id": "clm-gsoc-2",
+      "project_id": "proj-gsoc-2027",
+      "claim_text": "Open to contributors aged 18+.",
+      "normalized_topic": "Eligibility",
+      "status": "CORROBORATED",
+      "confidence_note": "Corroborated across primary portal and developer records",
+      "created_at": "2026-10-28T09:18:00.000Z"
+    },
+    "clm-gsoc-3": {
+      "id": "clm-gsoc-3",
+      "project_id": "proj-gsoc-2027",
+      "claim_text": "Stipends range from ,500 to ,000 USD.",
+      "normalized_topic": "Stipend Amount",
+      "status": "CORROBORATED",
+      "confidence_note": "Corroborated across primary portal and developer records",
+      "created_at": "2026-10-28T09:18:00.000Z"
+    },
+    "clm-gsoc-4": {
+      "id": "clm-gsoc-4",
+      "project_id": "proj-gsoc-2027",
+      "claim_text": "Exact stipend amount not yet announced.",
+      "normalized_topic": "Stipend Amount",
+      "status": "CONFLICTING",
+      "confidence_note": "Needs clarification",
+      "created_at": "2026-10-28T09:18:00.000Z"
+    },
+    "clm-gsoc-5": {
+      "id": "clm-gsoc-5",
+      "project_id": "proj-gsoc-2027",
+      "claim_text": "Application timeline details are missing.",
+      "normalized_topic": "Application Timeline",
+      "status": "MISSING",
+      "confidence_note": "Needs clarification",
+      "created_at": "2026-10-28T09:18:00.000Z"
+    },
+    "clm-gsoc-6": {
+      "id": "clm-gsoc-6",
+      "project_id": "proj-gsoc-2027",
+      "claim_text": "Open source contributions are required.",
+      "normalized_topic": "Participation Rules",
+      "status": "CORROBORATED",
+      "confidence_note": "Corroborated across primary portal and developer records",
+      "created_at": "2026-10-28T09:18:00.000Z"
+    },
+    "clm-gsoc-7": {
+      "id": "clm-gsoc-7",
+      "project_id": "proj-gsoc-2027",
+      "claim_text": "There may be changes in eligibility criteria for 2027.",
+      "normalized_topic": "Eligibility",
+      "status": "CONFLICTING",
+      "confidence_note": "Needs clarification",
+      "created_at": "2026-10-28T09:18:00.000Z"
+    },
+    "clm-gsoc-8": {
+      "id": "clm-gsoc-8",
+      "project_id": "proj-gsoc-2027",
+      "claim_text": "Final list of accepted organizations is not yet released.",
+      "normalized_topic": "Mentoring Organizations",
+      "status": "MISSING",
+      "confidence_note": "Needs clarification",
+      "created_at": "2026-10-28T09:18:00.000Z"
+    },
+    "clm-gsoc-9": {
+      "id": "clm-gsoc-9",
+      "project_id": "proj-gsoc-2027",
+      "claim_text": "Program duration is typically 12+ weeks.",
+      "normalized_topic": "Program Duration",
+      "status": "CORROBORATED",
+      "confidence_note": "Corroborated across primary portal and developer records",
+      "created_at": "2026-10-28T09:18:00.000Z"
+    },
+    "clm-gsoc-10": {
+      "id": "clm-gsoc-10",
+      "project_id": "proj-gsoc-2027",
+      "claim_text": "Exact start and end dates are not confirmed.",
+      "normalized_topic": "Application Timeline",
+      "status": "MISSING",
+      "confidence_note": "Needs clarification",
+      "created_at": "2026-10-28T09:18:00.000Z"
+    },
+    "clm-gsoc-11": {
+      "id": "clm-gsoc-11",
+      "project_id": "proj-gsoc-2027",
+      "claim_text": "Students from most countries can apply.",
+      "normalized_topic": "Eligibility",
+      "status": "CORROBORATED",
+      "confidence_note": "Corroborated across primary portal and developer records",
+      "created_at": "2026-10-28T09:18:00.000Z"
+    },
+    "clm-gsoc-12": {
+      "id": "clm-gsoc-12",
+      "project_id": "proj-gsoc-2027",
+      "claim_text": "The evaluation criteria include coding contributions and community involvement.",
+      "normalized_topic": "Selection Criteria",
+      "status": "CORROBORATED",
+      "confidence_note": "Corroborated across primary portal and developer records",
+      "created_at": "2026-10-28T09:18:00.000Z"
+    },
+    "clm-amz-1": {
+      "id": "clm-amz-1",
+      "project_id": "proj-amazon-sde-2027",
+      "claim_text": "Target graduation batch is strictly 2027 (B.Tech / M.Tech / MCA).",
+      "normalized_topic": "Eligibility",
+      "category": "Eligibility",
+      "status": "CORROBORATED",
+      "confidence_note": "Corroborated across Amazon Jobs official requisitions",
+      "created_at": "2026-11-01T16:21:00.000Z"
+    },
+    "clm-amz-2": {
+      "id": "clm-amz-2",
+      "project_id": "proj-amazon-sde-2027",
+      "claim_text": "Internship duration is 6 months (24–26 weeks, 40 hours/week) starting January 2027.",
+      "normalized_topic": "Duration",
+      "category": "Duration",
+      "status": "CORROBORATED",
+      "confidence_note": "Corroborated across Amazon Jobs official requisitions",
+      "created_at": "2026-11-01T16:21:00.000Z"
+    },
+    "clm-amz-3": {
+      "id": "clm-amz-3",
+      "project_id": "proj-amazon-sde-2027",
+      "claim_text": "Role requires proficiency in Java, C++, Python, Go, Rust, or TypeScript.",
+      "normalized_topic": "Required Skills",
+      "category": "Required Skills",
+      "status": "CORROBORATED",
+      "confidence_note": "Corroborated across Amazon Jobs official requisitions",
+      "created_at": "2026-11-01T16:21:00.000Z"
+    },
+    "clm-amz-4": {
+      "id": "clm-amz-4",
+      "project_id": "proj-amazon-sde-2027",
+      "claim_text": "College No Objection Certificate (NOC) is mandatory for 6-month on-site internship.",
+      "normalized_topic": "Academic Prerequisites",
+      "category": "Academic Prerequisites",
+      "status": "CORROBORATED",
+      "confidence_note": "Corroborated across Amazon Jobs official requisitions",
+      "created_at": "2026-11-01T16:21:00.000Z"
+    },
+    "clm-amz-5": {
+      "id": "clm-amz-5",
+      "project_id": "proj-amazon-sde-2027",
+      "claim_text": "Exact application closing deadline is not stated on the job listing.",
+      "normalized_topic": "Deadlines",
+      "category": "Deadlines",
+      "status": "MISSING",
+      "confidence_note": "Verification needed",
+      "created_at": "2026-11-01T16:21:00.000Z"
+    },
+    "clm-amz-6": {
+      "id": "clm-amz-6",
+      "project_id": "proj-amazon-sde-2027",
+      "claim_text": "Monthly stipend amount is omitted from the official Amazon job descriptions.",
+      "normalized_topic": "Compensation",
+      "category": "Compensation",
+      "status": "MISSING",
+      "confidence_note": "Verification needed",
+      "created_at": "2026-11-01T16:21:00.000Z"
+    },
+    "clm-amz-7": {
+      "id": "clm-amz-7",
+      "project_id": "proj-amazon-sde-2027",
+      "claim_text": "Submitting to both Job IDs 10541345 and 10517894 may cause ATS duplicate consolidation.",
+      "normalized_topic": "Application Process",
+      "category": "Application Process",
+      "status": "CONFLICTING",
+      "confidence_note": "Verification needed",
+      "created_at": "2026-11-01T16:21:00.000Z"
+    },
+    "clm-amz-8": {
+      "id": "clm-amz-8",
+      "project_id": "proj-amazon-sde-2027",
+      "claim_text": "The role is full-time in-person across Bangalore, Hyderabad, Chennai, Pune, or Delhi NCR.",
+      "normalized_topic": "Work Mode & Location",
+      "category": "Work Mode & Location",
+      "status": "CORROBORATED",
+      "confidence_note": "Corroborated across Amazon Jobs official requisitions",
+      "created_at": "2026-11-01T16:21:00.000Z"
+    }
+  },
+  "evidence": {
+    "evi-1793433902336-bmj1l": {
+      "source_id": "src-1793433790284-84f1i",
+      "excerpt": "The Union Ministry of Education has extended the last date for submission of applications under the National Means-cum-Merit Scholarship Scheme (NMMSS) for the academic year 2026-27 to October 31, 2026.",
+      "evidence_type": "supports",
+      "id": "evi-1793433902336-bmj1l",
+      "claim_id": "claim-1793433902336-k7zvu",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T08:05:02.336Z"
+    },
+    "evi-1793433902336-igguq": {
+      "source_id": "src-1793433790302-49rxt",
+      "excerpt": "The eligible students can now submit their application forms through the National Scholarship Portal (NEP) scholarships.gov.in until October 31, 2026.",
+      "evidence_type": "supports",
+      "id": "evi-1793433902336-igguq",
+      "claim_id": "claim-1793433902336-k7zvu",
+      "source_title": "NMMSS Scholarship 2026-27 Application Deadline Extended, Students Can Apply Till October 31",
+      "source_url": "https://www.ndtv.com/education/nmmss-scholarship-2026-27-application-deadline-extended-students-can-apply-till-october-31-12128868",
+      "created_at": "2026-10-31T08:05:02.336Z"
+    },
+    "evi-1793433902336-041jo": {
+      "source_id": "src-1793433790312-fs4li",
+      "excerpt": "Eligible students can now apply through the National Scholarship Portal (NSP) until October 31, 2026.",
+      "evidence_type": "supports",
+      "id": "evi-1793433902336-041jo",
+      "claim_id": "claim-1793433902336-k7zvu",
+      "source_title": "NMMSS 2026-27: Education Ministry extends scholarship application deadline to October 31; check eligibility, verification dates",
+      "source_url": "https://timesofindia.indiatimes.com/education/news/nmmss-2026-27-education-ministry-extends-scholarship-application-deadline-to-october-31-check-eligibility-verification-dates/articleshow/134621782.cms",
+      "created_at": "2026-10-31T08:05:02.336Z"
+    },
+    "evi-1793433902352-0k6j0": {
+      "source_id": "src-1793433790284-84f1i",
+      "excerpt": "Institute Nodal Officer (L1) Verification | November 15, 2026",
+      "evidence_type": "supports",
+      "id": "evi-1793433902352-0k6j0",
+      "claim_id": "claim-1793433902352-i2v0z",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T08:05:02.352Z"
+    },
+    "evi-1793433902352-edxl2": {
+      "source_id": "src-1793433790312-fs4li",
+      "excerpt": "Institute Nodal Officer (L1) verification | November 15, 2026",
+      "evidence_type": "supports",
+      "id": "evi-1793433902352-edxl2",
+      "claim_id": "claim-1793433902352-i2v0z",
+      "source_title": "NMMSS 2026-27: Education Ministry extends scholarship application deadline to October 31; check eligibility, verification dates",
+      "source_url": "https://timesofindia.indiatimes.com/education/news/nmmss-2026-27-education-ministry-extends-scholarship-application-deadline-to-october-31-check-eligibility-verification-dates/articleshow/134621782.cms",
+      "created_at": "2026-10-31T08:05:02.352Z"
+    },
+    "evi-1793433902366-bijs1": {
+      "source_id": "src-1793433790284-84f1i",
+      "excerpt": "District Nodal Officer (L2) Verification | November 30, 2026",
+      "evidence_type": "supports",
+      "id": "evi-1793433902366-bijs1",
+      "claim_id": "claim-1793433902366-9c75n",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T08:05:02.366Z"
+    },
+    "evi-1793433902366-uwuqu": {
+      "source_id": "src-1793433790302-49rxt",
+      "excerpt": "District Nodal Officer (L2) verification: November 30, 2026",
+      "evidence_type": "supports",
+      "id": "evi-1793433902366-uwuqu",
+      "claim_id": "claim-1793433902366-9c75n",
+      "source_title": "NMMSS Scholarship 2026-27 Application Deadline Extended, Students Can Apply Till October 31",
+      "source_url": "https://www.ndtv.com/education/nmmss-scholarship-2026-27-application-deadline-extended-students-can-apply-till-october-31-12128868",
+      "created_at": "2026-10-31T08:05:02.366Z"
+    },
+    "evi-1793433902378-fpnzc": {
+      "source_id": "src-1793433790284-84f1i",
+      "excerpt": "The National Scholarship Portal (NSP) has been open for student applications since June 1, 2026.",
+      "evidence_type": "supports",
+      "id": "evi-1793433902378-fpnzc",
+      "claim_id": "claim-1793433902378-rr1w7",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T08:05:02.378Z"
+    },
+    "evi-1793433902378-mgw6f": {
+      "source_id": "src-1793433790312-fs4li",
+      "excerpt": "The portal opened for applications on June 1, 2026.",
+      "evidence_type": "supports",
+      "id": "evi-1793433902378-mgw6f",
+      "claim_id": "claim-1793433902378-rr1w7",
+      "source_title": "NMMSS 2026-27: Education Ministry extends scholarship application deadline to October 31; check eligibility, verification dates",
+      "source_url": "https://timesofindia.indiatimes.com/education/news/nmmss-2026-27-education-ministry-extends-scholarship-application-deadline-to-october-31-check-eligibility-verification-dates/articleshow/134621782.cms",
+      "created_at": "2026-10-31T08:05:02.378Z"
+    },
+    "evi-1793433902390-xwroc": {
+      "source_id": "src-1793433790284-84f1i",
+      "excerpt": "For appearing in the selection test, students must have secured at least 55 per cent marks or equivalent grade in Class VII, with a 5-percentage point relaxation for SC/ST students.",
+      "evidence_type": "supports",
+      "id": "evi-1793433902390-xwroc",
+      "claim_id": "claim-1793433902390-z0m0a",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T08:05:02.390Z"
+    },
+    "evi-1793433902390-it63j": {
+      "source_id": "src-1793433790302-49rxt",
+      "excerpt": "Students must have secured at least 55% marks in class VIII. SC and ST category students receive 5% marks relaxation.",
+      "evidence_type": "supports",
+      "id": "evi-1793433902390-it63j",
+      "claim_id": "claim-1793433902390-z0m0a",
+      "source_title": "NMMSS Scholarship 2026-27 Application Deadline Extended, Students Can Apply Till October 31",
+      "source_url": "https://www.ndtv.com/education/nmmss-scholarship-2026-27-application-deadline-extended-students-can-apply-till-october-31-12128868",
+      "created_at": "2026-10-31T08:05:02.390Z"
+    },
+    "evi-1793433943212-ifgt7": {
+      "source_id": "src-1793433792515-kgi0q",
+      "excerpt": "the last date for submission of applications under the National Means-cum-Merit Scholarship Scheme (NMMSS) for the academic year 2026-27 to October 31, 2026.",
+      "evidence_type": "supports",
+      "id": "evi-1793433943212-ifgt7",
+      "claim_id": "claim-1793433943212-ew883",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T08:05:43.212Z"
+    },
+    "evi-1793433943229-1ykjm": {
+      "source_id": "src-1793433792515-kgi0q",
+      "excerpt": "Institute Nodal Officer (L1) Verification | November 15, 2026",
+      "evidence_type": "supports",
+      "id": "evi-1793433943229-1ykjm",
+      "claim_id": "claim-1793433943229-veisk",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T08:05:43.229Z"
+    },
+    "evi-1793433943245-6dt0y": {
+      "source_id": "src-1793433792515-kgi0q",
+      "excerpt": "District Nodal Officer (L2) Verification | November 30, 2026",
+      "evidence_type": "supports",
+      "id": "evi-1793433943245-6dt0y",
+      "claim_id": "claim-1793433943244-297j9",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T08:05:43.245Z"
+    },
+    "evi-1793433943262-2i74b": {
+      "source_id": "src-1793433792515-kgi0q",
+      "excerpt": "Eligible students will receive scholarship of ₹12,000 per annum",
+      "evidence_type": "supports",
+      "id": "evi-1793433943262-2i74b",
+      "claim_id": "claim-1793433943262-e658y",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T08:05:43.262Z"
+    },
+    "evi-1793433943262-vx3ls": {
+      "source_id": "src-1793433792541-ueruy",
+      "excerpt": "renewable through Class 12, at Rs 12,000 per year.",
+      "evidence_type": "supports",
+      "id": "evi-1793433943262-vx3ls",
+      "claim_id": "claim-1793433943262-e658y",
+      "source_title": "NMMSS 2026-27 Deadline Extended: New NSP Dates Every Student Must Know",
+      "source_url": "https://www.careerindia.com/news/nmmss-2026-27-scholarship-new-nsp-application-deadlines-verification-dates-011-65641.html",
+      "created_at": "2026-10-31T08:05:43.262Z"
+    },
+    "evi-1793433943277-uw38n": {
+      "source_id": "src-1793433792515-kgi0q",
+      "excerpt": "The parental income of the applicant should not exceed ₹3.50 lakh per annum.",
+      "evidence_type": "supports",
+      "id": "evi-1793433943277-uw38n",
+      "claim_id": "claim-1793433943277-dxadg",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T08:05:43.277Z"
+    },
+    "evi-1793433943277-umyiw": {
+      "source_id": "src-1793433792541-ueruy",
+      "excerpt": "Applicants must meet the income ceiling of Rs 3.5 lakh",
+      "evidence_type": "supports",
+      "id": "evi-1793433943277-umyiw",
+      "claim_id": "claim-1793433943277-dxadg",
+      "source_title": "NMMSS 2026-27 Deadline Extended: New NSP Dates Every Student Must Know",
+      "source_url": "https://www.careerindia.com/news/nmmss-2026-27-scholarship-new-nsp-application-deadlines-verification-dates-011-65641.html",
+      "created_at": "2026-10-31T08:05:43.277Z"
+    },
+    "evi-1793433943294-ffml4": {
+      "source_id": "src-1793433792515-kgi0q",
+      "excerpt": "The scheme provides one lakh fresh scholarships every year to eligible Class IX students",
+      "evidence_type": "supports",
+      "id": "evi-1793433943294-ffml4",
+      "claim_id": "claim-1793433943293-0ovtd",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T08:05:43.293Z"
+    },
+    "evi-1793433943294-g6l30": {
+      "source_id": "src-1793433792528-5feeg",
+      "excerpt": "one lakh fresh scholarships are awarded every year to eligible students studying in Class IX",
+      "evidence_type": "supports",
+      "id": "evi-1793433943294-g6l30",
+      "claim_id": "claim-1793433943293-0ovtd",
+      "source_title": "Eligible students may apply for National Means-cum-Merit Scholarship Scheme by August 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295776&lang=1&reg=48",
+      "created_at": "2026-10-31T08:05:43.293Z"
+    },
+    "evi-1793433943294-8ebhc": {
+      "source_id": "src-1793433792541-ueruy",
+      "excerpt": "One lakh fresh awards are offered in Class 9",
+      "evidence_type": "supports",
+      "id": "evi-1793433943294-8ebhc",
+      "claim_id": "claim-1793433943293-0ovtd",
+      "source_title": "NMMSS 2026-27 Deadline Extended: New NSP Dates Every Student Must Know",
+      "source_url": "https://www.careerindia.com/news/nmmss-2026-27-scholarship-new-nsp-application-deadlines-verification-dates-011-65641.html",
+      "created_at": "2026-10-31T08:05:43.293Z"
+    },
+    "evi-1793438940547-d42rt": {
+      "source_id": "src-1793438790173-1vhon",
+      "excerpt": "The Union Ministry of Education has extended the last date for submission of applications under the National Means-cum-Merit Scholarship Scheme (NMMSS) for the academic year 2026-27 to October 31, 2026.",
+      "evidence_type": "supports",
+      "id": "evi-1793438940547-d42rt",
+      "claim_id": "claim-1793438940547-wf0ir",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T09:29:00.547Z"
+    },
+    "evi-1793438940547-bxjz2": {
+      "source_id": "src-1793438790235-dojll",
+      "excerpt": "The Ministry of Education has extended the NMMSS 2026-27 application deadline on the National Scholarship Portal (NSP) to October 31, 2026, for fresh and renewal applicants.",
+      "evidence_type": "supports",
+      "id": "evi-1793438940547-bxjz2",
+      "claim_id": "claim-1793438940547-wf0ir",
+      "source_title": "NMMS 2026-27: NSP Last Date Oct 31, Exam Dates, Eligibility",
+      "source_url": "https://www.buddy4study.com/article/nmms",
+      "created_at": "2026-10-31T09:29:00.547Z"
+    },
+    "evi-1793438940566-knmx1": {
+      "source_id": "src-1793438790173-1vhon",
+      "excerpt": "Institute Nodal Officer (L1) Verification | November 15, 2026",
+      "evidence_type": "supports",
+      "id": "evi-1793438940566-knmx1",
+      "claim_id": "claim-1793438940566-yhv49",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T09:29:00.566Z"
+    },
+    "evi-1793438940586-srcko": {
+      "source_id": "src-1793438790173-1vhon",
+      "excerpt": "District Nodal Officer (L2) Verification | November 30, 2026",
+      "evidence_type": "supports",
+      "id": "evi-1793438940586-srcko",
+      "claim_id": "claim-1793438940586-8jwgj",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T09:29:00.586Z"
+    },
+    "evi-1793438940606-gpnnl": {
+      "source_id": "src-1793438790173-1vhon",
+      "excerpt": "Eligible students will receive scholarship of ₹12,000 per annum",
+      "evidence_type": "supports",
+      "id": "evi-1793438940606-gpnnl",
+      "claim_id": "claim-1793438940606-3xsp1",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T09:29:00.606Z"
+    },
+    "evi-1793438940606-9yxoa": {
+      "source_id": "src-1793438790235-dojll",
+      "excerpt": "The National Means-cum-Merit Scholarship Scheme (NMMSS) is a Ministry of Education scheme that pays ₹12,000 a year (₹1,000 a month)",
+      "evidence_type": "supports",
+      "id": "evi-1793438940606-9yxoa",
+      "claim_id": "claim-1793438940606-3xsp1",
+      "source_title": "NMMS 2026-27: NSP Last Date Oct 31, Exam Dates, Eligibility",
+      "source_url": "https://www.buddy4study.com/article/nmms",
+      "created_at": "2026-10-31T09:29:00.606Z"
+    },
+    "evi-1793438940624-tpplc": {
+      "source_id": "src-1793438790173-1vhon",
+      "excerpt": "For appearing in the selection test, students must have secured at least 55 per cent marks or equivalent grade in Class VII, with a 5-percentage point relaxation for SC/ST students.",
+      "evidence_type": "supports",
+      "id": "evi-1793438940624-tpplc",
+      "claim_id": "claim-1793438940624-hdyeo",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T09:29:00.624Z"
+    },
+    "evi-1793438940644-c2olt": {
+      "source_id": "src-1793438790173-1vhon",
+      "excerpt": "The parental income of the applicant should not exceed ₹3.50 lakh per annum.",
+      "evidence_type": "supports",
+      "id": "evi-1793438940644-c2olt",
+      "claim_id": "claim-1793438940644-nk02r",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T09:29:00.644Z"
+    },
+    "evi-1793438940644-kuffl": {
+      "source_id": "src-1793438790235-dojll",
+      "excerpt": "income limit | Parental income up to ₹3,50,000 per year from all sources",
+      "evidence_type": "supports",
+      "id": "evi-1793438940644-kuffl",
+      "claim_id": "claim-1793438940644-nk02r",
+      "source_title": "NMMS 2026-27: NSP Last Date Oct 31, Exam Dates, Eligibility",
+      "source_url": "https://www.buddy4study.com/article/nmms",
+      "created_at": "2026-10-31T09:29:00.644Z"
+    },
+    "evi-1793438940668-gpjyp": {
+      "source_id": "src-1793438790173-1vhon",
+      "excerpt": "Eligible students studying in state government, government-aided and local body schools, receive ₹12,000 per annum",
+      "evidence_type": "supports",
+      "id": "evi-1793438940668-gpjyp",
+      "claim_id": "claim-1793438940668-2g7ow",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T09:29:00.668Z"
+    },
+    "evi-1793438940691-qe6at": {
+      "source_id": "src-1793438790173-1vhon",
+      "excerpt": "The scholarship is subsequently continued from Classes X to XII through renewal, subject to the prescribed academic requirements.",
+      "evidence_type": "mentions",
+      "id": "evi-1793438940691-qe6at",
+      "claim_id": "claim-1793438940691-cpq74",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T09:29:00.691Z"
+    },
+    "evi-1793445645392-iryrk": {
+      "source_id": "src-1793445528651-1o6hw",
+      "excerpt": "The Union Ministry of Education has extended the last date for submission of applications under the National Means-cum-Merit Scholarship Scheme (NMMSS) for the academic year 2026-27 to October 31, 2026.",
+      "evidence_type": "supports",
+      "id": "evi-1793445645392-iryrk",
+      "claim_id": "claim-1793445645392-68xs8",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T11:20:45.392Z"
+    },
+    "evi-1793445645392-y5yyj": {
+      "source_id": "src-1793445528626-pit80",
+      "excerpt": "The last date for registration of applications for the academic year 2026–27 is October 31, 2026.",
+      "evidence_type": "supports",
+      "id": "evi-1793445645392-y5yyj",
+      "claim_id": "claim-1793445645392-68xs8",
+      "source_title": "Ministry of Education organises Orientation-cum-Review Workshop on National Means-cum-Merit Scholarship Scheme (NMMSS) to Strengthen Scholarship Implementation and Verification Processes",
+      "source_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323830&lang=2&reg=48",
+      "created_at": "2026-10-31T11:20:45.392Z"
+    },
+    "evi-1793445645416-axh40": {
+      "source_id": "src-1793445528651-1o6hw",
+      "excerpt": "Institute Nodal Officer (L1) Verification | November 15, 2026",
+      "evidence_type": "supports",
+      "id": "evi-1793445645416-axh40",
+      "claim_id": "claim-1793445645416-xla2r",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T11:20:45.416Z"
+    },
+    "evi-1793445645416-6p24o": {
+      "source_id": "src-1793445528626-pit80",
+      "excerpt": "The last dates for verification of applications at the INO and DNO levels are 15 November 2026 and 30 November 2026, respectively.",
+      "evidence_type": "supports",
+      "id": "evi-1793445645416-6p24o",
+      "claim_id": "claim-1793445645416-xla2r",
+      "source_title": "Ministry of Education organises Orientation-cum-Review Workshop on National Means-cum-Merit Scholarship Scheme (NMMSS) to Strengthen Scholarship Implementation and Verification Processes",
+      "source_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323830&lang=2&reg=48",
+      "created_at": "2026-10-31T11:20:45.416Z"
+    },
+    "evi-1793445645437-9frmr": {
+      "source_id": "src-1793445528651-1o6hw",
+      "excerpt": "District Nodal Officer (L2) Verification | November 30, 2026",
+      "evidence_type": "supports",
+      "id": "evi-1793445645437-9frmr",
+      "claim_id": "claim-1793445645437-z2ird",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T11:20:45.437Z"
+    },
+    "evi-1793445645437-s6ib8": {
+      "source_id": "src-1793445528626-pit80",
+      "excerpt": "The last dates for verification of applications at the INO and DNO levels are 15 November 2026 and 30 November 2026, respectively.",
+      "evidence_type": "supports",
+      "id": "evi-1793445645437-s6ib8",
+      "claim_id": "claim-1793445645437-z2ird",
+      "source_title": "Ministry of Education organises Orientation-cum-Review Workshop on National Means-cum-Merit Scholarship Scheme (NMMSS) to Strengthen Scholarship Implementation and Verification Processes",
+      "source_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323830&lang=2&reg=48",
+      "created_at": "2026-10-31T11:20:45.437Z"
+    },
+    "evi-1793445645459-ngdyv": {
+      "source_id": "src-1793445528626-pit80",
+      "excerpt": "NMMSS Provides an Annual Scholarship of ₹12,000 to Eligible Students",
+      "evidence_type": "supports",
+      "id": "evi-1793445645459-ngdyv",
+      "claim_id": "claim-1793445645459-h2y4h",
+      "source_title": "Ministry of Education organises Orientation-cum-Review Workshop on National Means-cum-Merit Scholarship Scheme (NMMSS) to Strengthen Scholarship Implementation and Verification Processes",
+      "source_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323830&lang=2&reg=48",
+      "created_at": "2026-10-31T11:20:45.459Z"
+    },
+    "evi-1793445645459-b8z8a": {
+      "source_id": "src-1793445528651-1o6hw",
+      "excerpt": "Eligible students will receive scholarship of ₹12,000 per annum",
+      "evidence_type": "supports",
+      "id": "evi-1793445645459-b8z8a",
+      "claim_id": "claim-1793445645459-h2y4h",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T11:20:45.459Z"
+    },
+    "evi-1793445645482-xzlvb": {
+      "source_id": "src-1793445528651-1o6hw",
+      "excerpt": "For appearing in the selection test, students must have secured at least 55 per cent marks or equivalent grade in Class VII, with a 5-percentage point relaxation for SC/ST students.",
+      "evidence_type": "supports",
+      "id": "evi-1793445645482-xzlvb",
+      "claim_id": "claim-1793445645481-2tgb3",
+      "source_title": "NMMSS Scholarship Application Deadline Extended to October 31, 2026",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2317657&lang=2&reg=48",
+      "created_at": "2026-10-31T11:20:45.481Z"
+    },
+    "ev-gsoc-1": {
+      "id": "ev-gsoc-1",
+      "claim_id": "clm-gsoc-1",
+      "source_id": "src-gsoc-1",
+      "excerpt": "Applications for Google Summer of Code 2027 are expected to open in March 2027.",
+      "evidence_type": "supports",
+      "created_at": "2026-10-28T09:18:30.000Z"
+    },
+    "ev-gsoc-2": {
+      "id": "ev-gsoc-2",
+      "claim_id": "clm-gsoc-1",
+      "source_id": "src-gsoc-3",
+      "excerpt": "Based on previous years, GSoC 2027 applications will likely open in March 2027, similar to the 2026 timeline.",
+      "evidence_type": "supports",
+      "created_at": "2026-10-28T09:18:30.000Z"
+    },
+    "ev-gsoc-3": {
+      "id": "ev-gsoc-3",
+      "claim_id": "clm-gsoc-1",
+      "source_id": "src-gsoc-4",
+      "excerpt": "While the exact dates are not yet confirmed, most sources indicate that GSoC 2027 will begin accepting applications in March 2027.",
+      "evidence_type": "supports",
+      "created_at": "2026-10-28T09:18:30.000Z"
+    },
+    "ev-amz-1": {
+      "id": "ev-amz-1",
+      "claim_id": "clm-amz-1",
+      "source_id": "src-amz-1",
+      "excerpt": "Candidates must be enrolled in an accredited degree program with an expected graduation year of 2027.",
+      "evidence_type": "supports",
+      "created_at": "2026-11-01T16:21:10.000Z"
+    },
+    "ev-amz-2": {
+      "id": "ev-amz-2",
+      "claim_id": "clm-amz-2",
+      "source_id": "src-amz-2",
+      "excerpt": "6-month full-time internship (approx. 24–26 weeks, 40 hours/week) from January to June 2027.",
+      "evidence_type": "supports",
+      "created_at": "2026-11-01T16:21:20.000Z"
+    },
+    "evi-1793531211835-8xd0l": {
+      "source_id": "src-1793531111824-bqwoi",
+      "excerpt": "This program is for students graduating in 2027",
+      "evidence_type": "supports",
+      "id": "evi-1793531211835-8xd0l",
+      "claim_id": "claim-1793531211835-lvwvr",
+      "source_title": "Software Development Engineer Intern – Jan 2027 (6 month), Amazon University Talent Acquisition",
+      "source_url": "https://www.amazon.jobs/en/jobs/10517894/software-development-engineer-intern-jan-2027-6-month-amazon-university-talent-acquisition?utm_source=chatgpt.com",
+      "created_at": "2026-11-01T11:06:51.835Z"
+    },
+    "evi-1793531211867-bvilf": {
+      "source_id": "src-1793531111824-bqwoi",
+      "excerpt": "Must be 18 years of age or older.",
+      "evidence_type": "supports",
+      "id": "evi-1793531211867-bvilf",
+      "claim_id": "claim-1793531211867-yp2uh",
+      "source_title": "Software Development Engineer Intern – Jan 2027 (6 month), Amazon University Talent Acquisition",
+      "source_url": "https://www.amazon.jobs/en/jobs/10517894/software-development-engineer-intern-jan-2027-6-month-amazon-university-talent-acquisition?utm_source=chatgpt.com",
+      "created_at": "2026-11-01T11:06:51.867Z"
+    },
+    "evi-1793531211898-svktp": {
+      "source_id": "src-1793531111824-bqwoi",
+      "excerpt": "Currently enrolled in a Bachelor's degree or above in Computer Science, Computer Engineering, Data Science, Information Systems, or related STEM fields OR completed a Bachelor's or Graduate degree in specified fields.",
+      "evidence_type": "supports",
+      "id": "evi-1793531211898-svktp",
+      "claim_id": "claim-1793531211898-8lo4s",
+      "source_title": "Software Development Engineer Intern – Jan 2027 (6 month), Amazon University Talent Acquisition",
+      "source_url": "https://www.amazon.jobs/en/jobs/10517894/software-development-engineer-intern-jan-2027-6-month-amazon-university-talent-acquisition?utm_source=chatgpt.com",
+      "created_at": "2026-11-01T11:06:51.898Z"
+    },
+    "evi-1793531211932-3scuz": {
+      "source_id": "src-1793531111824-bqwoi",
+      "excerpt": "Experience with at least one general-purpose programming language such as Java, Python, C++, C#, Go, Rust, or TypeScript.",
+      "evidence_type": "supports",
+      "id": "evi-1793531211932-3scuz",
+      "claim_id": "claim-1793531211932-p31x9",
+      "source_title": "Software Development Engineer Intern – Jan 2027 (6 month), Amazon University Talent Acquisition",
+      "source_url": "https://www.amazon.jobs/en/jobs/10517894/software-development-engineer-intern-jan-2027-6-month-amazon-university-talent-acquisition?utm_source=chatgpt.com",
+      "created_at": "2026-11-01T11:06:51.932Z"
+    },
+    "evi-1793531211964-8zvoc": {
+      "source_id": "src-1793531111824-bqwoi",
+      "excerpt": "Experience with data structure implementation, basic algorithm development, and/or object-oriented design principles.",
+      "evidence_type": "supports",
+      "id": "evi-1793531211964-8zvoc",
+      "claim_id": "claim-1793531211964-jnswn",
+      "source_title": "Software Development Engineer Intern – Jan 2027 (6 month), Amazon University Talent Acquisition",
+      "source_url": "https://www.amazon.jobs/en/jobs/10517894/software-development-engineer-intern-jan-2027-6-month-amazon-university-talent-acquisition?utm_source=chatgpt.com",
+      "created_at": "2026-11-01T11:06:51.964Z"
+    },
+    "evi-1793531211997-ex2ia": {
+      "source_id": "src-1793531111777-vmlw7",
+      "excerpt": "Amazon internships are full-time (40 hours/week) for 24 - 26 consecutive weeks (six months)",
+      "evidence_type": "supports",
+      "id": "evi-1793531211997-ex2ia",
+      "claim_id": "claim-1793531211997-fr9cq",
+      "source_title": "SDE I Intern , Amazon University Talent Acquisition",
+      "source_url": "https://www.amazon.jobs/en/jobs/10541345/sde-i-intern-amazon-university-talent-acquisition?utm_source=chatgpt.com",
+      "created_at": "2026-11-01T11:06:51.997Z"
+    },
+    "evi-1793531211997-uihwn": {
+      "source_id": "src-1793531111824-bqwoi",
+      "excerpt": "Software Development Engineer Intern – Jan 2027 (6 month)",
+      "evidence_type": "supports",
+      "id": "evi-1793531211997-uihwn",
+      "claim_id": "claim-1793531211997-fr9cq",
+      "source_title": "Software Development Engineer Intern – Jan 2027 (6 month), Amazon University Talent Acquisition",
+      "source_url": "https://www.amazon.jobs/en/jobs/10517894/software-development-engineer-intern-jan-2027-6-month-amazon-university-talent-acquisition?utm_source=chatgpt.com",
+      "created_at": "2026-11-01T11:06:51.997Z"
+    },
+    "evi-1793531212030-i4qql": {
+      "source_id": "src-1793531111777-vmlw7",
+      "excerpt": "with start dates between January - June 2027",
+      "evidence_type": "supports",
+      "id": "evi-1793531212030-i4qql",
+      "claim_id": "claim-1793531212029-39i2v",
+      "source_title": "SDE I Intern , Amazon University Talent Acquisition",
+      "source_url": "https://www.amazon.jobs/en/jobs/10541345/sde-i-intern-amazon-university-talent-acquisition?utm_source=chatgpt.com",
+      "created_at": "2026-11-01T11:06:52.030Z"
+    },
+    "evi-1793531212062-4qple": {
+      "source_id": "src-1793531111777-vmlw7",
+      "excerpt": "Candidates receiving internship will be required to submit declaration of their availability to complete the entire duration of internship duly signed by a competent authority at their University.",
+      "evidence_type": "supports",
+      "id": "evi-1793531212062-4qple",
+      "claim_id": "claim-1793531212061-ybge6",
+      "source_title": "SDE I Intern , Amazon University Talent Acquisition",
+      "source_url": "https://www.amazon.jobs/en/jobs/10541345/sde-i-intern-amazon-university-talent-acquisition?utm_source=chatgpt.com",
+      "created_at": "2026-11-01T11:06:52.061Z"
+    },
+    "evi-1793531212096-p329o": {
+      "source_id": "src-1793531111777-vmlw7",
+      "excerpt": "This includes but is not limited to Bengaluru, Chennai, Hyderabad, Delhi, Mumbai and Pune.",
+      "evidence_type": "supports",
+      "id": "evi-1793531212096-p329o",
+      "claim_id": "claim-1793531212096-uivbn",
+      "source_title": "SDE I Intern , Amazon University Talent Acquisition",
+      "source_url": "https://www.amazon.jobs/en/jobs/10541345/sde-i-intern-amazon-university-talent-acquisition?utm_source=chatgpt.com",
+      "created_at": "2026-11-01T11:06:52.096Z"
+    }
+  },
+  "conflicts": {
+    "conf-gnani-01": {
+      "id": "conf-gnani-01",
+      "project_id": "proj-gnani-ai-2026",
+      "title": "Hackathon Flyer vs Challenge Programme Scope",
+      "explanation": "Promotional collateral references a regional single-day event ('Build in AI for India - Delhi Edition, 13th Sept 2026, ₹50K prize pool') co-hosted with PW Institute of Innovation, whereas the official challenge is a nationwide 6-week programme (Oct 1 - Nov 10, 2026) with up to 100 internships and ₹5 Lakh in awards. Students must not confuse the two events.",
+      "conflicting_claims": [
+        "Build in AI for India Delhi Edition held on Sept 13, 2026 with ₹50K prize pool",
+        "Great Indian AI Internship Challenge closes Nov 10, 2026 with 100 internships and ₹5 Lakh prize pool"
+      ],
+      "created_at": "2026-11-01T15:24:00.000Z"
+    },
+    "conf-gnani-02": {
+      "id": "conf-gnani-02",
+      "project_id": "proj-gnani-ai-2026",
+      "title": "Merit Evaluation vs Social Media Algorithm Virality",
+      "explanation": "Shortlisting terms indicate Gnani AI verifies engagement (reactions, comments, reshares) on nominated public social media posts on LinkedIn/X, introducing potential discrepancy between purely technical build quality and social media reach.",
+      "conflicting_claims": [
+        "Awards and shortlisting are decided on technical criteria and problem solving",
+        "Initial shortlisting verifies social engagement metrics on LinkedIn and X"
+      ],
+      "created_at": "2026-11-01T15:24:00.000Z"
+    },
+    "conf-amz-1": {
+      "id": "conf-amz-1",
+      "project_id": "proj-amazon-sde-2027",
+      "claim_a_id": "clm-amz-1",
+      "claim_b_id": "clm-amz-7",
+      "explanation": "Job ID 10541345 is titled broadly as SDE I Intern, while Job ID 10517894 explicitly specifies 6-month Jan 2027. Both target the same 2027 cohort.",
+      "status": "open",
+      "created_at": "2026-11-01T16:21:40.000Z"
+    },
+    "conf-gsoc-1": {
+      "id": "conf-gsoc-1",
+      "project_id": "proj-gsoc-2027",
+      "explanation": "Secondary guides report standard ,000 stipend whereas updated 2027 preliminary guidelines indicate stipend ranges from ,500 to ,000 based on location PPP.",
+      "status": "open",
+      "created_at": "2026-10-28T10:00:00.000Z"
+    },
+    "conf-nmmss-1": {
+      "id": "conf-nmmss-1",
+      "project_id": "proj-1793445517470-bxjt8",
+      "explanation": "Early August notifications cited August 31 closing date, which was superseded by the October 15 Ministry extension order extending verification to November 30.",
+      "status": "resolved",
+      "created_at": "2026-10-31T10:00:00.000Z"
+    }
+  },
+  "gaps": {
+    "gap-1793445645503-7l426": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "question": "What are the specific required documents for the NMMSS application?",
+      "why_it_matters": "The fetched sources do not establish this detail. Verify it in the current official scheme guidelines or National Scholarship Portal notice.",
+      "priority": "high",
+      "supporting_source_ids": [],
+      "id": "gap-1793445645503-7l426",
+      "created_at": "2026-10-31T11:20:45.503Z"
+    },
+    "gap-1793445645524-j4pfy": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "question": "What are the exact 'prescribed academic requirements' for scholarship renewal from Classes X to XII?",
+      "why_it_matters": "The fetched sources do not establish this detail. Verify it in the current official scheme guidelines or National Scholarship Portal notice.",
+      "priority": "medium",
+      "supporting_source_ids": [
+        "src-1793445528651-1o6hw"
+      ],
+      "id": "gap-1793445645524-j4pfy",
+      "created_at": "2026-10-31T11:20:45.524Z"
+    },
+    "gap-1793445645547-3m6jt": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "question": "Has any official notice been issued after October 15, 2026, regarding date changes?",
+      "why_it_matters": "The fetched sources do not establish this detail. Verify it in the current official scheme guidelines or National Scholarship Portal notice.",
+      "priority": "high",
+      "supporting_source_ids": [],
+      "id": "gap-1793445645547-3m6jt",
+      "created_at": "2026-10-31T11:20:45.547Z"
+    },
+    "gap-gnani-01": {
+      "id": "gap-gnani-01",
+      "project_id": "proj-gnani-ai-2026",
+      "item": "Minimum Base Stipend Floor Unspecified",
+      "reason": "All sources declare stipends 'up to ₹1 lakh/month', but do not disclose the minimum base stipend, criteria for tiering, or role-specific payout structure.",
+      "status": "unresolved",
+      "created_at": "2026-11-01T15:23:30.000Z"
+    },
+    "gap-gnani-02": {
+      "id": "gap-gnani-02",
+      "project_id": "proj-gnani-ai-2026",
+      "item": "Work Arrangement (Remote vs In-Person in Bengaluru)",
+      "reason": "Terms do not clarify whether the 6-month internship is fully remote, hybrid, or requires physical relocation to Gnani AI's Bengaluru headquarters.",
+      "status": "unresolved",
+      "created_at": "2026-11-01T15:23:30.000Z"
+    },
+    "gap-gnani-03": {
+      "id": "gap-gnani-03",
+      "project_id": "proj-gnani-ai-2026",
+      "item": "Technical Interview Format and Number of Rounds",
+      "reason": "Official documentation states 'interviews follow after submissions close', but does not describe the number of technical rounds, coding assessments, or syllabus.",
+      "status": "unresolved",
+      "created_at": "2026-11-01T15:23:30.000Z"
+    },
+    "gap-amz-1": {
+      "id": "gap-amz-1",
+      "project_id": "proj-amazon-sde-2027",
+      "question": "What is the final application closing date for the Jan 2027 batch?",
+      "why_it_matters": "Amazon job listings frequently close without notice once candidate pipelines are filled.",
+      "priority": "high",
+      "created_at": "2026-11-01T16:21:30.000Z"
+    },
+    "gap-amz-2": {
+      "id": "gap-amz-2",
+      "project_id": "proj-amazon-sde-2027",
+      "question": "What is the exact monthly stipend and relocation assistance for India AUTA interns?",
+      "why_it_matters": "Official listings exclude stipend ranges (industry benchmarks range ₹80,000 to ₹1,10,000/month).",
+      "priority": "medium",
+      "created_at": "2026-11-01T16:21:30.000Z"
+    },
+    "gap-gsoc-1": {
+      "id": "gap-gsoc-1",
+      "project_id": "proj-gsoc-2027",
+      "question": "What are the exact submission deadline dates for 2027 contributor proposals?",
+      "why_it_matters": "Google confirms March opening but final proposal submission deadline is typically released in February.",
+      "priority": "high",
+      "created_at": "2026-10-28T10:00:00.000Z"
+    },
+    "gap-gsoc-2": {
+      "id": "gap-gsoc-2",
+      "project_id": "proj-gsoc-2027",
+      "question": "Which mentoring organizations will participate in the AI/ML and OS infrastructure track?",
+      "why_it_matters": "Accepted organization list is confirmed prior to proposal window.",
+      "priority": "medium",
+      "created_at": "2026-10-28T10:00:00.000Z"
+    }
+  },
+  "checklist": {
+    "chk-1793445645613-w0d1t": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "item": "Check the National Scholarship Portal (NSP) for any notifications released between Oct 16 and Oct 31, 2026.",
+      "reason": "To ensure no further extensions or changes occurred after the last available source.",
+      "priority": "high",
+      "status": "pending",
+      "id": "chk-1793445645613-w0d1t",
+      "created_at": "2026-10-31T11:20:45.613Z",
+      "updated_at": "2026-10-31T11:20:45.613Z"
+    },
+    "chk-1793445645635-c7ioe": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "item": "Review official NMMSS guidelines for the specific list of required documents.",
+      "reason": "Required documents are currently unconfirmed in provided sources.",
+      "priority": "high",
+      "status": "pending",
+      "id": "chk-1793445645635-c7ioe",
+      "created_at": "2026-10-31T11:20:45.635Z",
+      "updated_at": "2026-10-31T11:20:45.635Z"
+    },
+    "chk-1793445645657-vre7e": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "item": "Verify the specific 'prescribed academic requirements' for renewal through the DoSEL website.",
+      "reason": "The academic criteria for maintaining the scholarship are currently unknown.",
+      "priority": "medium",
+      "status": "pending",
+      "id": "chk-1793445645657-vre7e",
+      "created_at": "2026-10-31T11:20:45.657Z",
+      "updated_at": "2026-10-31T11:20:45.657Z"
+    },
+    "chk-gnani-01": {
+      "id": "chk-gnani-01",
+      "project_id": "proj-gnani-ai-2026",
+      "item_text": "Verify active college/university student enrollment proof and confirm you are aged 18 or older.",
+      "priority": "high",
+      "source_ids": [
+        "src-gnani-01",
+        "src-gnani-02"
+      ],
+      "category": "ELIGIBILITY",
+      "completed": false,
+      "created_at": "2026-11-01T15:24:30.000Z",
+      "item": "Verify active college/university student enrollment proof and confirm you are aged 18 or older.",
+      "reason": "Action item regarding eligibility.",
+      "status": "pending"
+    },
+    "chk-gnani-02": {
+      "id": "chk-gnani-02",
+      "project_id": "proj-gnani-ai-2026",
+      "item_text": "Confirm participation format: Decide whether to enter as Solo Ninja or Duo (Two-Person Army). Note that teams cannot exceed 2 members.",
+      "priority": "high",
+      "source_ids": [
+        "src-gnani-01",
+        "src-gnani-02"
+      ],
+      "category": "TEAM_RULES",
+      "completed": false,
+      "created_at": "2026-11-01T15:24:30.000Z",
+      "item": "Confirm participation format: Decide whether to enter as Solo Ninja or Duo (Two-Person Army). Note that teams cannot exceed 2 members.",
+      "reason": "Action item regarding team rules.",
+      "status": "pending"
+    },
+    "chk-gnani-03": {
+      "id": "chk-gnani-03",
+      "project_id": "proj-gnani-ai-2026",
+      "item_text": "Request model weights / API access for Prisma v2.5 (ASR), Timbre v2.0 (TTS), or Evon v3.3 (LLM) on Hugging Face.",
+      "priority": "high",
+      "source_ids": [
+        "src-gnani-02",
+        "src-gnani-03"
+      ],
+      "category": "TECHNOLOGY",
+      "completed": false,
+      "created_at": "2026-11-01T15:24:30.000Z",
+      "item": "Request model weights / API access for Prisma v2.5 (ASR), Timbre v2.0 (TTS), or Evon v3.3 (LLM) on Hugging Face.",
+      "reason": "Action item regarding technology.",
+      "status": "pending"
+    },
+    "chk-gnani-04": {
+      "id": "chk-gnani-04",
+      "project_id": "proj-gnani-ai-2026",
+      "item_text": "Record a working 60-second application demo and post publicly to LinkedIn or X tagging @GnaniAI with #GreatIndianAIInternshipChallenge and #GnaniAI.",
+      "priority": "high",
+      "source_ids": [
+        "src-gnani-02",
+        "src-gnani-03"
+      ],
+      "category": "SUBMISSION",
+      "completed": false,
+      "created_at": "2026-11-01T15:24:30.000Z",
+      "item": "Record a working 60-second application demo and post publicly to LinkedIn or X tagging @GnaniAI with #GreatIndianAIInternshipChallenge and #GnaniAI.",
+      "reason": "Action item regarding submission.",
+      "status": "pending"
+    },
+    "chk-gnani-05": {
+      "id": "chk-gnani-05",
+      "project_id": "proj-gnani-ai-2026",
+      "item_text": "Clarify workplace location (remote vs Bengaluru on-site) and exact minimum base stipend tier with Gnani AI recruiters during the interview round.",
+      "priority": "medium",
+      "source_ids": [
+        "src-gnani-02",
+        "src-gnani-04"
+      ],
+      "category": "OFFER_TERMS",
+      "completed": false,
+      "created_at": "2026-11-01T15:24:30.000Z",
+      "item": "Clarify workplace location (remote vs Bengaluru on-site) and exact minimum base stipend tier with Gnani AI recruiters during the interview round.",
+      "reason": "Action item regarding offer terms.",
+      "status": "pending"
+    },
+    "chk-gnani-06": {
+      "id": "chk-gnani-06",
+      "project_id": "proj-gnani-ai-2026",
+      "item_text": "Submit before the firm deadline: November 10, 2026 at 11:59 PM IST (internship commences January 1, 2027).",
+      "priority": "high",
+      "source_ids": [
+        "src-gnani-01",
+        "src-gnani-03"
+      ],
+      "category": "DEADLINE",
+      "completed": false,
+      "created_at": "2026-11-01T15:24:30.000Z",
+      "item": "Submit before the firm deadline: November 10, 2026 at 11:59 PM IST (internship commences January 1, 2027).",
+      "reason": "Action item regarding deadline.",
+      "status": "pending"
+    },
+    "chk-amz-1": {
+      "id": "chk-amz-1",
+      "project_id": "proj-amazon-sde-2027",
+      "item": "Confirm University 6-Month Internship NOC policy",
+      "reason": "The role requires 40 hours/week in-person presence starting January 2027 during the 8th semester.",
+      "priority": "high",
+      "status": "completed",
+      "created_at": "2026-11-01T16:21:50.000Z",
+      "completed_at": "2026-11-01T12:29:32.411Z",
+      "updated_at": "2026-11-01T12:29:32.411Z"
+    },
+    "chk-amz-2": {
+      "id": "chk-amz-2",
+      "project_id": "proj-amazon-sde-2027",
+      "item": "Verify Graduation Year on Resume is strictly 2027",
+      "reason": "AUTA ATS automated filters reject applications with graduation dates in 2025 or 2026.",
+      "priority": "high",
+      "status": "completed",
+      "created_at": "2026-11-01T16:21:50.000Z",
+      "completed_at": "2026-11-01T12:29:32.125Z",
+      "updated_at": "2026-11-01T12:29:32.125Z"
+    },
+    "chk-amz-3": {
+      "id": "chk-amz-3",
+      "project_id": "proj-amazon-sde-2027",
+      "item": "Choose one primary Job ID (10517894 recommended for 6-month)",
+      "reason": "Applying to duplicate requisitions can trigger deduplication delays in Amazon candidate portal.",
+      "priority": "high",
+      "status": "completed",
+      "created_at": "2026-11-01T16:21:50.000Z",
+      "completed_at": "2026-11-01T12:29:32.455Z",
+      "updated_at": "2026-11-01T12:29:32.455Z"
+    },
+    "chk-amz-4": {
+      "id": "chk-amz-4",
+      "project_id": "proj-amazon-sde-2027",
+      "item": "Prepare DSA in a primary language (Java/C++/Python)",
+      "reason": "Amazon OA requires timed debugging and coding challenges in standard algorithms.",
+      "priority": "medium",
+      "status": "completed",
+      "created_at": "2026-11-01T16:21:50.000Z",
+      "completed_at": "2026-11-01T12:29:32.375Z",
+      "updated_at": "2026-11-01T12:29:32.375Z"
+    },
+    "chk-gsoc-1": {
+      "id": "chk-gsoc-1",
+      "project_id": "proj-gsoc-2027",
+      "item": "Monitor summerofcode.withgoogle.com for the 2027 Timeline announcement",
+      "reason": "Application windows typically open in March; exact dates are confirmed in Q1 2027.",
+      "priority": "high",
+      "status": "pending",
+      "created_at": "2026-10-28T10:00:00.000Z"
+    },
+    "chk-gsoc-2": {
+      "id": "chk-gsoc-2",
+      "project_id": "proj-gsoc-2027",
+      "item": "Check participating mentoring organizations list for AI/ML and OS infrastructure",
+      "reason": "Organizations are selected prior to contributor proposal submission.",
+      "priority": "medium",
+      "status": "pending",
+      "created_at": "2026-10-28T10:00:00.000Z"
+    },
+    "chk-gsoc-3": {
+      "id": "chk-gsoc-3",
+      "project_id": "proj-gsoc-2027",
+      "item": "Review stipend tiers based on local contributor country PPP matrix",
+      "reason": "Google adjusts final stipend amounts per contributor country tier.",
+      "priority": "low",
+      "status": "pending",
+      "created_at": "2026-10-28T10:00:00.000Z"
+    }
+  },
+  "events": {
+    "job-1793445517485-lk1k3": [
+      {
+        "job_id": "job-1793445517485-lk1k3",
+        "sequence_number": 1793445517640,
+        "stage": "understanding_query",
+        "status": "queued",
+        "message": "Analyzed your research question and formulated search entities",
+        "completed_units": 1,
+        "total_units": 6,
+        "occurred_at": "2026-10-31T11:18:37.640Z",
+        "id": "evt-1793445517641-vm0mb"
+      },
+      {
+        "job_id": "job-1793445517485-lk1k3",
+        "sequence_number": 1793445517678,
+        "stage": "discovering_sources",
+        "status": "discovering_sources",
+        "message": "Searching across trusted sources and scanning official websites",
+        "completed_units": 2,
+        "total_units": 6,
+        "occurred_at": "2026-10-31T11:18:37.678Z",
+        "id": "evt-1793445517679-58rne"
+      },
+      {
+        "job_id": "job-1793445517485-lk1k3",
+        "sequence_number": 1793445525476,
+        "stage": "collecting_sources",
+        "status": "fetching_sources",
+        "message": "Selected 3 candidate sources (target 5; user URLs prioritized)",
+        "completed_units": 2,
+        "total_units": 6,
+        "occurred_at": "2026-10-31T11:18:45.476Z",
+        "id": "evt-1793445525476-f3uua"
+      },
+      {
+        "job_id": "job-1793445517485-lk1k3",
+        "sequence_number": 1793445525521,
+        "stage": "fetching_sources",
+        "status": "fetching_sources",
+        "message": "Reading and extracting clean content from each discovered source",
+        "completed_units": 3,
+        "total_units": 6,
+        "occurred_at": "2026-10-31T11:18:45.521Z",
+        "id": "evt-1793445525522-2wn2j"
+      },
+      {
+        "job_id": "job-1793445517485-lk1k3",
+        "sequence_number": 1793445528725,
+        "stage": "extracting_claims",
+        "status": "extracting_claims",
+        "message": "Cross-checking information, extracting factual claims, and identifying contradictions",
+        "completed_units": 4,
+        "total_units": 6,
+        "occurred_at": "2026-10-31T11:18:48.725Z",
+        "id": "evt-1793445528726-5m46c"
+      },
+      {
+        "job_id": "job-1793445517485-lk1k3",
+        "sequence_number": 1793445645590,
+        "stage": "building_checklist",
+        "status": "building_checklist",
+        "message": "Generating prioritized verification checklist and identifying next steps",
+        "completed_units": 5,
+        "total_units": 6,
+        "occurred_at": "2026-10-31T11:20:45.590Z",
+        "id": "evt-1793445645591-1cyfo"
+      },
+      {
+        "job_id": "job-1793445517485-lk1k3",
+        "sequence_number": 1793445645698,
+        "stage": "saving_report",
+        "status": "saving_report",
+        "message": "Compiling executive summary and generating finalized evidence report",
+        "completed_units": 6,
+        "total_units": 6,
+        "occurred_at": "2026-10-31T11:20:45.698Z",
+        "id": "evt-1793445645700-6wcbp"
+      },
+      {
+        "job_id": "job-1793445517485-lk1k3",
+        "sequence_number": 1793445645789,
+        "stage": "completed",
+        "status": "completed",
+        "message": "Research intelligence analysis complete. Results and verification report ready.",
+        "completed_units": 6,
+        "total_units": 6,
+        "occurred_at": "2026-10-31T11:20:45.789Z",
+        "id": "evt-1793445645789-7o8xr"
+      }
+    ],
+    "job-1793531099336-kkyl3": [
+      {
+        "job_id": "job-1793531099336-kkyl3",
+        "sequence_number": 1793531099519,
+        "stage": "understanding_query",
+        "status": "queued",
+        "message": "Analyzed your research question and formulated search entities",
+        "completed_units": 1,
+        "total_units": 6,
+        "occurred_at": "2026-11-01T11:04:59.519Z",
+        "id": "evt-1793531099523-s55r9"
+      },
+      {
+        "job_id": "job-1793531099336-kkyl3",
+        "sequence_number": 1793531099593,
+        "stage": "discovering_sources",
+        "status": "discovering_sources",
+        "message": "Searching across trusted sources and scanning official websites",
+        "completed_units": 2,
+        "total_units": 6,
+        "occurred_at": "2026-11-01T11:04:59.593Z",
+        "id": "evt-1793531099596-o2ymg"
+      },
+      {
+        "job_id": "job-1793531099336-kkyl3",
+        "sequence_number": 1793531105120,
+        "stage": "collecting_sources",
+        "status": "fetching_sources",
+        "message": "Selected 5 candidate sources (target 5; user URLs prioritized)",
+        "completed_units": 2,
+        "total_units": 6,
+        "occurred_at": "2026-11-01T11:05:05.120Z",
+        "id": "evt-1793531105124-kcu7i"
+      },
+      {
+        "job_id": "job-1793531099336-kkyl3",
+        "sequence_number": 1793531105201,
+        "stage": "fetching_sources",
+        "status": "fetching_sources",
+        "message": "Reading and extracting clean content from each discovered source",
+        "completed_units": 3,
+        "total_units": 6,
+        "occurred_at": "2026-11-01T11:05:05.201Z",
+        "id": "evt-1793531105205-fswg5"
+      },
+      {
+        "job_id": "job-1793531099336-kkyl3",
+        "sequence_number": 1793531112053,
+        "stage": "extracting_claims",
+        "status": "extracting_claims",
+        "message": "Cross-checking information, extracting factual claims, and identifying contradictions",
+        "completed_units": 4,
+        "total_units": 6,
+        "occurred_at": "2026-11-01T11:05:12.053Z",
+        "id": "evt-1793531112060-9qhcr"
+      },
+      {
+        "job_id": "job-1793531099336-kkyl3",
+        "sequence_number": 1793531212251,
+        "stage": "building_checklist",
+        "status": "building_checklist",
+        "message": "Generating prioritized verification checklist and identifying next steps",
+        "completed_units": 5,
+        "total_units": 6,
+        "occurred_at": "2026-11-01T11:06:52.251Z",
+        "id": "evt-1793531212253-7zh3t"
+      },
+      {
+        "job_id": "job-1793531099336-kkyl3",
+        "sequence_number": 1793531212411,
+        "stage": "saving_report",
+        "status": "saving_report",
+        "message": "Compiling executive summary and generating finalized evidence report",
+        "completed_units": 6,
+        "total_units": 6,
+        "occurred_at": "2026-11-01T11:06:52.411Z",
+        "id": "evt-1793531212414-e9l5k"
+      },
+      {
+        "job_id": "job-1793531099336-kkyl3",
+        "sequence_number": 1793531212534,
+        "stage": "completed",
+        "status": "completed",
+        "message": "Research intelligence analysis complete. Results and verification report ready.",
+        "completed_units": 6,
+        "total_units": 6,
+        "occurred_at": "2026-11-01T11:06:52.534Z",
+        "id": "evt-1793531212539-49kzb"
+      }
+    ]
+  },
+  "reports": {
+    "proj-1793445517470-bxjt8": {
+      "project_id": "proj-1793445517470-bxjt8",
+      "report_json": {
+        "title": "For NMMSS academic year 2026–27, verify the lat...",
+        "research_question": "For NMMSS academic year 2026–27, verify the latest application deadline and the upcoming Institute (L1) and District (L2) verification deadlines. Check whether any official notice after October 15, 2026 changed those dates. Compare the October 15 and October 1 notices with the original August schedule. Keep application and verification dates separate, flag superseded dates as outdated rather than conflicting, and leave required documents or renewal criteria unconfirmed unless an official source states them. Do not add state exam dates.",
+        "executive_summary": "As of October 31, 2026, the NMMSS application deadline for the 2026–27 academic year is confirmed as October 31, 2026. This is an extension from the original August 31, 2026, deadline stated in early August communications. Consequently, all verification deadlines have also shifted: the Institute (L1) verification must be completed by November 15, 2026, and the District (L2) verification by November 30, 2026 (superseding the original September deadlines). Both the October 1st extension notice and the October 15th Ministry workshop report corroborate these updated dates. No official notices dated after October 15, 2026, were found in the provided sources to suggest further changes. While eligibility (Class VII marks/income) and the scholarship amount (₹12,000) are confirmed, the specific list of required documents and the detailed academic criteria for renewal remain unconfirmed and require manual verification.",
+        "readiness_score": 85,
+        "readiness_label": "Ready with Verification",
+        "total_findings": 5,
+        "verified_count": 5,
+        "gaps_count": 3,
+        "conflicts_count": 0,
+        "outdated_count": 3,
+        "key_findings": [
+          {
+            "title": "The latest application deadline for the NMMSS academic year 2026–27 is October 31, 2026.",
+            "description": "Confirmed by both the October 1st extension notice and the October 15th workshop report.",
+            "status": "CORROBORATED"
+          },
+          {
+            "title": "The Institute Nodal Officer (L1) verification deadline is November 15, 2026.",
+            "description": "Both recent sources (Oct 1 and Oct 15) align on this date.",
+            "status": "CORROBORATED"
+          },
+          {
+            "title": "The District Nodal Officer (L2) verification deadline is November 30, 2026.",
+            "description": "Confirmed by both the October 1st and October 15th official updates.",
+            "status": "CORROBORATED"
+          },
+          {
+            "title": "The NMMSS scholarship provides an annual amount of ₹12,000.",
+            "description": "Multiple sources confirm the specific annual amount.",
+            "status": "CORROBORATED"
+          },
+          {
+            "title": "To appear for the selection test, students must have at least 55% marks in Class VII, with a 5% relaxation for SC/ST students.",
+            "description": "Explicitly stated in the October 1st notice.",
+            "status": "CORROBORATED"
+          }
+        ],
+        "information_gaps": [
+          {
+            "item": "What are the specific required documents for the NMMSS application?",
+            "reason": "The fetched sources do not establish this detail. Verify it in the current official scheme guidelines or National Scholarship Portal notice.",
+            "priority": "high"
+          },
+          {
+            "item": "What are the exact 'prescribed academic requirements' for scholarship renewal from Classes X to XII?",
+            "reason": "The fetched sources do not establish this detail. Verify it in the current official scheme guidelines or National Scholarship Portal notice.",
+            "priority": "medium"
+          },
+          {
+            "item": "Has any official notice been issued after October 15, 2026, regarding date changes?",
+            "reason": "The fetched sources do not establish this detail. Verify it in the current official scheme guidelines or National Scholarship Portal notice.",
+            "priority": "high"
+          }
+        ],
+        "conflicts": [],
+        "outdated_warnings": [
+          {
+            "finding": "The original application deadline of August 31, 2026, has been superseded.",
+            "warning": "This date is outdated; the new deadline is October 31, 2026."
+          },
+          {
+            "finding": "The original L1 (Institute) verification deadline of September 15, 2026, has been superseded.",
+            "warning": "This date is outdated; the new deadline is November 15, 2026."
+          },
+          {
+            "finding": "The original L2 (District) verification deadline of September 30, 2026, has been superseded.",
+            "warning": "This date is outdated; the new deadline is November 30, 2026."
+          }
+        ],
+        "unanswered_questions": [
+          "What is the list of required documents for registration?",
+          "What are the specific academic conditions for renewal?"
+        ],
+        "checklist": [
+          {
+            "item": "Check the National Scholarship Portal (NSP) for any notifications released between Oct 16 and Oct 31, 2026.",
+            "priority": "high"
+          },
+          {
+            "item": "Review official NMMSS guidelines for the specific list of required documents.",
+            "priority": "high"
+          },
+          {
+            "item": "Verify the specific 'prescribed academic requirements' for renewal through the DoSEL website.",
+            "priority": "medium"
+          }
+        ],
+        "limitations_and_uncertainty": "Analysis processed 3 sources. Real-world verification must be conducted before making binding commitments."
+      },
+      "version": 1,
+      "id": "rep-1793445645722-sgaau",
+      "generated_at": "2026-10-31T11:20:45.722Z"
+    },
+    "proj-gnani-ai-2026": {
+      "project_id": "proj-gnani-ai-2026",
+      "id": "rep-proj-gnani-ai-2026",
+      "version": 1,
+      "generated_at": "2026-11-01T15:25:00.000Z",
+      "report_json": {
+        "title": "Gnani AI Great Indian AI Internship Challenge 2026 Verification Report",
+        "research_question": "Comprehensive verification of eligibility, stipend, deadlines, technologies, selection stages, conditional nature, and team rules for Gnani AI's 2026 challenge.",
+        "executive_summary": "Gnani AI's 'Great Indian AI Internship Challenge' is an open 6-week build contest closing on November 10, 2026, at 11:59 PM IST. It offers up to 100 six-month paid internship positions starting January 1, 2027, with stipends advertised up to ₹1,00,000 per month, alongside ₹5,00,000 in ten dedicated category awards. Participation is open to enrolled students aged 18+ in India, building individually or in teams of up to two. Applications must incorporate Gnani AI models (Prisma v2.5 ASR, Timbre v2.0 TTS, or Evon v3.3 LLM) and publish a public demo video on LinkedIn or X. Crucially, the internship is NOT guaranteed upon submission; candidates are shortlisted via social engagement verification and technical review, followed by individual interviews.",
+        "readiness_score": 78,
+        "readiness_label": "High Confidence (Needs Verification of Stipend Floor)",
+        "total_findings": 7,
+        "verified_count": 7,
+        "gaps_count": 3,
+        "conflicts_count": 2,
+        "outdated_count": 1,
+        "key_findings": [
+          {
+            "title": "Open to Enrolled Students Aged 18+",
+            "claim_text": "Must be currently enrolled in an Indian college/university (BTech, MTech, BBA, BCA, MCA, BSc, MSc) and at least 18 years old.",
+            "status": "Corroborated"
+          },
+          {
+            "title": "Firm Submission Deadline: Nov 10, 2026",
+            "claim_text": "Submissions close strictly on November 10, 2026 at 11:59 PM IST; 6-month internships commence January 1, 2027.",
+            "status": "Corroborated"
+          },
+          {
+            "title": "Stipend Up to ₹1 Lakh/Month + ₹5 Lakh Awards",
+            "claim_text": "Offers up to 100 internships with stipends up to ₹1,00,000/month paid individually, plus 10 awards of ₹50,000 each.",
+            "status": "Corroborated"
+          },
+          {
+            "title": "Mandatory Gnani AI Model Integration",
+            "claim_text": "Builds must use Prisma v2.5 (Speech to Text), Timbre v2.0 (Text to Speech), or Evon v3.3 (30B MoE Indic LLM on Hugging Face).",
+            "status": "Corroborated"
+          },
+          {
+            "title": "Entry Requires Public LinkedIn/X Video Demo",
+            "claim_text": "Must share a 60-second video demo publicly tagging @GnaniAI with #GreatIndianAIInternshipChallenge and #GnaniAI.",
+            "status": "Corroborated"
+          },
+          {
+            "title": "Internship is Strictly Conditional, Not Guaranteed",
+            "claim_text": "Terms state clearly that neither internship nor employment is guaranteed; shortlisted candidates undergo individual technical interviews.",
+            "status": "Corroborated"
+          },
+          {
+            "title": "Maximum Team Size is Two Members",
+            "claim_text": "Eligible participants can enter solo (Solo Ninja) or as a duo (Two-Person Army); teams larger than two are barred.",
+            "status": "Corroborated"
+          }
+        ],
+        "information_gaps": [
+          {
+            "item": "Minimum Base Stipend Floor",
+            "reason": "No disclosure of minimum guaranteed stipend; the 'up to ₹1 lakh' figure is a ceiling dependent on evaluation."
+          },
+          {
+            "item": "Work Location / Relocation",
+            "reason": "Unspecified whether intern positions are remote or require on-site presence at Bengaluru headquarters."
+          },
+          {
+            "item": "Technical Interview Structure",
+            "reason": "Number of technical rounds and syllabus after demo shortlisting is not published."
+          }
+        ],
+        "conflicts": [
+          {
+            "title": "Single-Day Delhi Hackathon vs Nationwide Challenge",
+            "explanation": "Marketing flyers describe a PW Institute 'Delhi Edition' (Sept 13, 2026, ₹50K prize pool) which is distinct from this 6-week challenge."
+          },
+          {
+            "title": "Algorithm Reach vs Technical Rigour",
+            "explanation": "Shortlisting explicitly reviews social media engagement metrics (likes/shares), which could disadvantage technically superior builds with lower social reach."
+          }
+        ],
+        "outdated_warnings": [
+          {
+            "finding": "Build in AI for India Delhi Edition",
+            "warning": "Event date was September 13, 2026 and has concluded; current ongoing challenge closes November 10, 2026."
+          }
+        ],
+        "unanswered_questions": [
+          "Will interns based outside Bengaluru receive travel or relocation assistance if the internship is on-site?",
+          "What is the base stipend range for undergraduates vs postgraduates?"
+        ],
+        "checklist": [
+          {
+            "item": "Confirm enrollment and age criteria (18+ enrolled in Indian college).",
+            "priority": "High"
+          },
+          {
+            "item": "Form a team of maximum 2 members or register as solo.",
+            "priority": "High"
+          },
+          {
+            "item": "Integrate Prisma v2.5, Timbre v2.0, or Evon v3.3 model.",
+            "priority": "High"
+          },
+          {
+            "item": "Post public video demo on LinkedIn or X with official tags.",
+            "priority": "High"
+          },
+          {
+            "item": "Submit final entry before November 10, 2026, 11:59 PM IST.",
+            "priority": "High"
+          },
+          {
+            "item": "Inquire about remote vs on-site work arrangement during interview.",
+            "priority": "Medium"
+          }
+        ],
+        "limitations_and_uncertainty": "Assessment is grounded strictly in the 4 verified sources (Gnani AI official site, registration terms, blog, and SightsIn Plus). Internal interview evaluation criteria remain proprietary to Gnani AI."
+      }
+    },
+    "proj-gsoc-2027": {
+      "id": "rep-gsoc-2027",
+      "project_id": "proj-gsoc-2027",
+      "generated_at": "2026-10-28T09:20:00.000Z",
+      "version": 1,
+      "report_json": {
+        "title": "Google Summer of Code 2027",
+        "readiness_score": 88,
+        "readiness_verdict": "High Confidence",
+        "total_findings": 18,
+        "summary": "GSoC 2027 eligibility and preliminary timeline verified across official Google Open Source channels.",
+        "key_findings": [
+          {
+            "title": "Applications open in March 2027",
+            "type": "corroborated"
+          },
+          {
+            "title": "Eligibility expanded to include gap year contributors",
+            "type": "corroborated"
+          },
+          {
+            "title": "Stipend range estimated between ,500 and ,000 USD",
+            "type": "corroborated"
+          }
+        ],
+        "checklist": [
+          {
+            "item": "Review mentoring organization list once released in February",
+            "reason": "Mentoring organizations determine available project slots.",
+            "priority": "high",
+            "status": "pending"
+          },
+          {
+            "item": "Join mailing lists and discussion channels of target organizations",
+            "reason": "Early interaction significantly boosts proposal success.",
+            "priority": "high",
+            "status": "pending"
+          }
+        ]
+      }
+    },
+    "proj-amazon-sde-2027": {
+      "id": "rep-amazon-sde-2027",
+      "project_id": "proj-amazon-sde-2027",
+      "generated_at": "2026-11-01T16:22:00.000Z",
+      "version": 1,
+      "report_json": {
+        "title": "Amazon SDE Intern 2027 — Eligibility & Requirements",
+        "readiness_score": 86,
+        "readiness_verdict": "High Confidence (Action Required)",
+        "total_findings": 8,
+        "summary": "Amazon University Talent Acquisition (AUTA) has officially listed SDE Internship positions in India targeting the 2027 graduating batch for a 6-month full-time in-person cycle starting January 2027.",
+        "key_findings": [
+          {
+            "title": "Target graduation batch is strictly 2027",
+            "type": "corroborated"
+          },
+          {
+            "title": "Internship duration is 6 months (Jan–June 2027)",
+            "type": "corroborated"
+          },
+          {
+            "title": "College NOC is mandatory for 40 hrs/week on-site commitment",
+            "type": "corroborated"
+          },
+          {
+            "title": "Application deadline is omitted on job portals",
+            "type": "gap"
+          },
+          {
+            "title": "Two active Job IDs (10541345 vs 10517894) target identical cohort",
+            "type": "conflict"
+          }
+        ],
+        "checklist": [
+          {
+            "item": "Confirm University 6-Month Internship NOC policy",
+            "reason": "Full-time in-person commitment required.",
+            "priority": "high",
+            "status": "pending"
+          },
+          {
+            "item": "Verify Graduation Year on Resume is strictly 2027",
+            "reason": "ATS screening filter.",
+            "priority": "high",
+            "status": "pending"
+          },
+          {
+            "item": "Apply immediately to Job ID 10517894 before quota fills",
+            "reason": "No explicit deadline listed.",
+            "priority": "high",
+            "status": "pending"
+          }
+        ]
+      }
+    }
+  },
+  "saved": {
+    "saved-1793449586944-v4gbn": {
+      "owner_session_id": "19b78994-16b1-49c8-b3e6-192468a24e5f",
+      "project_id": "proj-1793445517470-bxjt8",
+      "item_type": "source",
+      "item_id": "src-1793445528626-pit80",
+      "title": "Ministry of Education organises Orientation-cum-Review Workshop on National Means-cum-Merit Scholarship Scheme (NMMSS) to Strengthen Scholarship Implementation and Verification Processes",
+      "snippet": "Ministry of Education\n\n## Ministry of Education organises Orientation-cum-Review Workshop on National Means-cum-Merit Scholarship Scheme (NMMSS) to Strengthen Scholarship Implementation and Verification Processes\n\n### Ministry Emphasises Ti",
+      "source_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2323830&lang=2&reg=48",
+      "id": "saved-1793449586944-v4gbn",
+      "saved_at": "2026-10-31T12:26:26.944Z"
+    },
+    "saved-1793541643275-nntxu": {
+      "owner_session_id": "19b78994-16b1-49c8-b3e6-192468a24e5f",
+      "project_id": "proj-gnani-ai-2026",
+      "item_type": "report",
+      "item_id": "rep-proj-gnani-ai-2026",
+      "title": "Gnani AI Great Indian AI Internship Challenge 2026 Verification Report",
+      "snippet": "Comprehensive verification of eligibility, stipend, deadlines, and technical requirements.",
+      "id": "saved-1793541643275-nntxu",
+      "saved_at": "2026-11-01T14:00:43.275Z"
+    },
+    "saved-1793543025535-50apo": {
+      "owner_session_id": "19b78994-16b1-49c8-b3e6-192468a24e5f",
+      "project_id": "proj-amazon-sde-2027",
+      "item_type": "report",
+      "item_id": "rep-proj-amazon-sde-2027",
+      "title": "Amazon SDE Intern 2027 — Eligibility & Requirements — Research report",
+      "snippet": "Verify eligibility, skills, internship duration and application requirements for Amazon 2027 SDE Internship in India",
+      "id": "saved-1793543025535-50apo",
+      "saved_at": "2026-11-01T14:23:45.535Z"
+    }
+  }
+}
